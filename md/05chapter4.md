@@ -152,7 +152,7 @@ recommend, and links to community websites, services and platforms.
 Similar to a blog, the videoblog had an available archive, a profile
 page and a profile image.
 
-![](imgs/ch4fig4.png)
+![](imgs/Figure 4.tiff)
 
 Figure 4: Typical videoblog post
 
@@ -181,7 +181,7 @@ QuickTime, due to the reliance on Apple hardware and software to create
 the videos, but other formats were often included to widen the possible
 audience. 
 
-![](imgs/ch4fig5.png)
+![](imgs/Figure 5.png)
 
 Figure 5: *Mum's Brag vlog* by Erin Nealy. Sidebar with blogroll.
 
