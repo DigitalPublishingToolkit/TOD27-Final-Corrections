@@ -40,6 +40,12 @@ David Hendy, Professor of Media and Cultural History, University of Sussex.<br>
 This critical history of the present, and disruptive intervention into the progress narratives of new media technologies, is crucial reading for anyone in media studies. Trine Bjørkmann Berry’s Videoblogging Before Youtube is a fascinating, in depth and meticulous cultural history of an important moment in the history of digital media. It examines the use of video in its vernacular, everyday and experimental formats in a moment of transition. The book brings together richly ethnographic material in relation to media practices of videoblogging and interrogates this authoritatively and beautifully, in relation to film and digital media theory. It shows us the value of thinking about media futures in relation to their histories, and the moments of practice, disruption and appropriation that are so important in understanding the current media landscape.<br>
 <br>Kate O’Riordan, Professor of Digital Culture, University of Sussex, UK.
 
+Trine Bjørkmann Berry's compellingly written and highly original study of the historically located and embodied, medium-specific and cultural-technical practices of the early-adopter video blogging community eloquently fills a significant gap in previous studies of online video. Through her painstaking ethnographic, historical, aesthetic and media-archeological research she successfully argues that, in order to maintain critical understandings of the media practices and theories we observe around us today, it is essential to remember and understand the media practices of the past, even or perhaps especially those that led to ‘dead-ends’ and ‘failed’ media forms. This is an essential study that will change the ways in which we think about past, present and future online creative communities and digital platforms.
+<br><br>Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, University of London.
+
+Trine Bjørkman Berry has given us a rich and illuminating narrative of the communities, aesthetics and technologies of videoblogging before YouTube - revealing it to be a site of mundane expression, cultural innovation and social hope. At a moment when the digital media imagination seems to have been captured by corporate behemoths, we need more stories like this. 
+<br><br>Jean Burgess, Professor of Digital Media and Director of Digital Media Research Centre, Queensland University of Technology, Australia. 
+
 <br>
 <br>
 <br>
@@ -141,9 +147,7 @@ Teller and Michael Verdi.
 Through what has been a rather tough year, my family have been patient
 and understanding, and I would like to thank my husband David for being
 there through all of it. Lastly, no words can describe the love and joy
-I get from my three wonderful children, Helene Bjørkmann Berry, Henrik
-Isak Bjørkmann Berry and Hedda Emilie Davidsdatter Bjørkmann Berry. This
-is for them.
+I get from my three wonderful children, Helene, Henrik Isak and Hedda Emilie Davidsdatter. This is for them.
 
 T.B.B.
 
@@ -186,9 +190,9 @@ really long” — suspense, but no double entendre — “trunks”. Karim turn
 to face the elephants as if to confirm his observation. “And that’s
 pretty much all there is to say.”’[^02chapter1_2] Nonetheless, as of January 2018,
 the video has received over 44 million views and nearly four hundred
-thousand comments from viewers. This video represents a key moment in
+thousand comments from viewers.[^02chapter1_3] This video represents a key moment in
 media history, however it was not the first, and perhaps not the most
-important video to be posted online.[^02chapter1_3]
+important video to be posted online.
 
 In the years since, online video has been transformed from an expensive
 to distribute media-form to one which can be networked, shared,
@@ -305,7 +309,7 @@ internet, and as Lanier later argued, the internet ‘needs entrepreneurs
 to come up with the products that are competing in the first place. In
 other words, clever individuals, the heroes of the marketplace, ask the
 questions which are answered by collective behaviour.’[^02chapter1_14] But of
-course, in reality
+course, in reality,
 
 > The Net’s development was almost completely dependent on the much
 > reviled American federal government…. large amounts of tax payers’
@@ -349,7 +353,7 @@ participants.[^02chapter1_17]
 
 There are a few key issues I wish to highlight in relation to this.
 These are important, and underlie and inform this work. Firstly, many of
-the videobloggers I will go on to discuss self-identity as amateur. By
+the videobloggers I will go on to discuss self-identify as amateur. By
 amateur I gesture towards the idea that one does something without
 getting paid, that instead of monetary recompense, the personal
 satisfaction of having created (or achieved) something is assumed to be
@@ -492,8 +496,7 @@ practice originally based primarily around individual websites and an
 email group. In subsequent chapters, I explore the contours of this
 community through interviews with a group of users (33 individuals in
 total, self-identified as 16 men and 17 women), and close reading of the
-technologies available to, utilised by and sometimes created by them.
-[^02chapter1_28] I also critically engage with the discourses surrounding these
+technologies available to, utilised by and sometimes created by them.[^02chapter1_28] I also critically engage with the discourses surrounding these
 technologies and their practices and artefacts. I look at not just the
 material underpinnings of the video practices, but the practices
 themselves and the aesthetic these practices manifested.
@@ -503,8 +506,8 @@ empirical resources that were drawn on in the development of the
 argument. Firstly, I undertook semi-structured interviews to explore the
 interplay between the technologies used in videoblogging as moving-image
 culture, and the co-production of identity, community and critical
-technical practice that developed unique short-form narratives,[^02chapter1_29]
-aesthetics and meanings. Secondly, I use historical data specific to
+technical practice that developed unique short-form narratives,
+aesthetics and meanings.[^02chapter1_29] Secondly, I use historical data specific to
 videoblogging, such as archived email lists, articles and books (written
 at and around the time by the videobloggers themselves) to develop a
 critical technical and cultural understanding of how the
@@ -522,7 +525,7 @@ the community around this media-form sustained?; and how did the
 videobloggers understand and conceptualise their own practice and the
 co-construction necessary in creating the conditions of possibility for
 videoblog work, sharing and community building? These questions inform
-my work and acted as a heuristic for the discussion in the book.
+my work and act as a heuristic for the discussions in the book.
 
 The concept of ‘community’ used here probably requires some explanation.
 Benedict Anderson argued that all communities are in some sense
@@ -538,10 +541,10 @@ liberally applied to any group of people convening online around shared
 topics of interest. It follows, therefore, that the concept of ‘virtual
 community’ is open to a variety of interpretations at a variety of
 moments. That technologies affect social relations is also not a new
-idea. Already in 1990, Ursula Franklin announced herself “overawed by
+idea. Already in 1990, Ursula Franklin announced herself ‘overawed by
 the way in which technology has acted to reorder and restructure social
 relations, not only affecting the relations between social groups, but
-also the relations between nations and individuals”.[^02chapter1_31] The term
+also the relations between nations and individuals’.[^02chapter1_31] The term
 virtual community may seem somewhat out-dated today, as we now tend to
 think of groups of people who meet and socialise online as operating
 across social networks, yet to historically position videoblogging
@@ -594,7 +597,7 @@ internet, was a relatively small group of artists and video-makers who
 enthusiastically spent their time producing short digital films that
 they shared with the world through their blogs. YouTube was still in its
 infancy, social media did not exist and, to use a common internet meme,
-‘Pluto was still a planet’.[^02chapter1_36] And yet, this tiny community was
+Pluto was still a planet.[^02chapter1_36] And yet, this tiny community was
 ambitiously trying to create a new grammar, a fresh aesthetic and a
 genuinely sharing community of practice around the idea of
 ‘videoblogging’.
@@ -687,7 +690,7 @@ made possible to experience, when looked back upon, were actually noisy
 mechanical, and actually quite fragile constituent parts of a computer.
 It is clear then that ‘immateriality’ is an historically constructed and
 technically created form of experience in relation to the digital, much
-like the model, floppy disc or CD Roms.
+like the dial-up modem, floppy disc or CD Roms.
 
 Equally, the early instability of the videoblogging practice begs the
 question of how to study it. Following a long tradition of scholars
@@ -724,7 +727,7 @@ material. For example, some of the early cyber-feminism literature
 argued that ‘the virtual and material are intertwined and superimposed
 on every aspect of cyberspace’. It is also interesting to note the
 growing influence of New Materialisms, for instance in the work of Iris
-van der Tuin and Rosi Braidotti. [^02chapter1_50] At universities, studying the
+van der Tuin and Rosi Braidotti.[^02chapter1_50] At universities, studying the
 digital is no longer confined to a single strand within media studies,
 tagged on at the end of the course, but is being adopted across the
 humanities and the university more generally. Today we are faced with
@@ -800,8 +803,8 @@ videoblogs and the practices of videoblogging.
 
 [^02chapter1_1]: The banality of the title and content pointed in some ways to
     early video on the internet was predominantly
-    documentary/biographical or self-consciously aesthetic. As the New
-    York Times observed in 2009, ‘this founding clip makes and repeats a
+    documentary/biographical or self-consciously aesthetic. As *The New
+    York Times* observed in 2009, ‘this founding clip makes and repeats a
     larger point, too, with every pixel: Video — trivial or important —
     can now quickly and at no cost be published, broadcast and shared
     ‘Me at the Zoo’ also sets a style standard for the classic YouTube
@@ -818,7 +821,7 @@ videoblogs and the practices of videoblogging.
     this founding video as ‘Interesting…’.
 
 [^02chapter1_4]: Hermione Hoby and Tom Lamont, ‘How YouTube made superstars out of
-    everyday people’, The Guardian, 11 April 2010,
+    everyday people’, *The Guardian*, 11 April 2010,
     http://www.theguardian.com/technology/2010/apr/11/youtube-web-video-stars.
 
 [^02chapter1_5]: The Economist ‘New Tube’, *The Economist*, May 3-9 (2014).
@@ -984,7 +987,7 @@ videoblogs and the practices of videoblogging.
     Hachette UK, 2017.
 
 [^02chapter1_32]: For instance, Facebook was founded in February 2004, but didn’t
-    open registration to universities until October 2005, and to the
+    open registration to other universities until October 2005, and to the
     wider public in September 2006. Twitter launched in March 2006.
     Instagram was first released on the iTunes app store in October
     2010.
@@ -1282,9 +1285,9 @@ list, with an average of 300 messages sent each month. In December 2004
 this jumped to over 1000 messages, which led the way into one of the
 most active years in the history of the community.[^03chapter2_7] On July 9th 2005,
 Adam Quirk, initiated and hosted the first ever Vloggercue (videoblogger
-BBQ) on his roof-top in Hoboken, New York. Adam had started
+BBQ) on his roof-top in Hoboken, New York. Quirk had started
 videoblogging in 2004 when there were only a handful of people on the
-videoblogging list. An introvert, Adam had found it difficult to get to
+videoblogging list. An introvert, Quirk had found it difficult to get to
 know people after he’d moved to the city with just his girlfriend and
 his cat, and videoblogging afforded him the chance to ‘have
 conversations with these other people online and experience some kind of
@@ -1292,8 +1295,7 @@ socializing without having to resort to going to bars and meeting
 strangers face to face’. Vloggercue 2004 was attended by a small group
 of videobloggers, among them Jay Dedman, Steve Garfield, Bre Pettis (who
 started the website *We are the Media* and would go on to found
-MakerBot), the founders of Blip.tv, Ryanne Hodson (co-founder of
-*Freevlog*), Josh Leo (one of the youngest videobloggers at the time,
+MakerBot), the founders of Blip.tv, Josh Leo (one of the youngest videobloggers at the time,
 and later host of the web show *Daily Kawaii*) and Chris Weagel (who
 found success with the daily – and slightly absurd – videoblog
 production company *Human Dog*). This was the first time many of the
@@ -1325,9 +1327,9 @@ quote by filmmaker Francis Ford Coppola, who once said that his
 > professionalism about movies will be destroyed forever and it will
 > become an art form.[^03chapter2_9]
 
-*Fat Girl In Ohio* was Howe’s second videoblog.[^03chapter2_10] In the spring of
+*Fat Girl In Ohio* was Howe’s second videoblog. In the spring of
 2005 he had been working for his father, but he was bored and spent his
-days making short videos which he posted to a blog, and messing around
+days making short videos which he posted to a blog[^03chapter2_10], and messing around
 on the internet. Without a distribution network, Howe had been emailing
 the videos to his friends and his blog had little or no traffic. Again,
 this was all about to change.
@@ -1531,7 +1533,7 @@ archive of their lives, and argued that they would never dream of trying
 to make money from videos they saw as highly personal. After a
 particularly unpleasant exchange between a new member and the ‘core’
 community around the buying and selling of domain names, Steve Watkins,
-an active member who would often write long considered replies to
+an active member who would often write long, considered replies to
 issues, stated bluntly that ‘business and money often get a bit of a
 rough ride here, as they do elsewhere on the net. Some people have
 ideals about the net and what is happening with vlogging which doesn’t
@@ -1549,7 +1551,7 @@ introvert’, Gouvea never posted videos about her everyday life, yet told
 me her videos were ‘sometimes almost too personal, to a point where it
 might only make sense to me and a few select initiated’. Some tried to
 find ways to use their videoblogging skills to generate income in
-tangential ways. For instance, another videoblogger, Adam Quirk, told me
+tangential ways. Another videoblogger, Adam Quirk, told me
 ‘I don't think videoblogging itself will ever pay the bills, but I think
 I can find ways to make money through other projects related to it, such
 as creating video ads for other companies, or selling products through
@@ -1750,7 +1752,7 @@ but interestingly his work also consciously or unconsciously inspired
 the practice of videoblogging. Videobloggers followed one or more of
 Vertov’s elements in their work. Whether they explored everyday life,
 interactions with other videobloggers, stories with clear conventional
-narratives or more experimental videos, they told me their cameras –
+narratives or more experimental videos, their cameras –
 like the kino-eye – acted as an extension of their own eyes looking out
 on the world, catching life candidly and often blind to traditional
 cinematic conventions. Like Vertov, the videobloggers didn’t try to hide
@@ -1801,7 +1803,7 @@ amateur video production, both past and present, and by reflecting on
 the similarities and differences we can learn a lot about the
 motivations, trajectories and inspirations for the subsequent
 development of videoblogging. Nonetheless, it is helpful to follow the
-call to start in the middle ‘from the entanglement of past and present’
+call to start in the middle, ‘from the entanglement of past and present’
 and explore ‘the part-futures and future-pasts, as well as parallel
 side-lines of media archaeology.’[^03chapter2_36] This should not distract from
 seeing what is distinctive in particular historical constellations
@@ -1900,7 +1902,7 @@ which encourages a similar method for capturing photography, based on 10
 ‘anti-rules’, ‘clearly intended to offer resistance to the ways in which
 the rules of “professional photography” repress “ordinary” creativity
 and continually redraw the boundaries between amateur and
-professional’.[^03chapter2_45] Vertov continues to inspire film and photography
+professional’.[^03chapter2_45] Vertov also continues to inspire film and photography
 movements in the digital age.[^03chapter2_46] Here though, I want to draw attention
 to its use as an inspiration directly for videoblogging, particularly,
 Adrian Miles’ *Vogma Manifesto*, a list of ‘commandments’ for early
@@ -1925,7 +1927,7 @@ previously. As Astruc argued, ‘new age of the cinema \[is\] the age of
 caméra-styló (camera-pen)… the cinema will gradually break free from the
 tyranny of what is visual, from the image for its own sake, from the
 immediate and concrete demands of the narrative, to become a means of
-writing just as flexible and subtle as written language.[^03chapter2_49]
+writing just as flexible and subtle as written language’.[^03chapter2_49]
 
 Astruc imagined that the breakthrough for film and cinema as an art form
 would not come through the entertainment industry, where it had been
@@ -2042,7 +2044,7 @@ prosecutors. He eventually handed over the tapes, but was excused from
 identifying any of the individuals that featured on the video. He
 famously appeared on *The Colbert Report* on June 12^th^ 2007 where he
 discussed with Stephen Colbert whether or not bloggers should be
-considered journalists, arguing that bloggers’ practices and subject
+classified as journalists, arguing that bloggers’ practices and subject
 matter meant that they should be considered journalists even if they
 lack official recognition.
 
@@ -2130,7 +2132,7 @@ people’ to take control of their own media production and consumption.
 One of the early movements to articulate these ideas was the Guerrilla
 television movement.
 
-In the 1971 Guerrilla Television manifesto, Michael Shamberg outlined a
+In the 1971 Guerrilla Television Manifesto, Michael Shamberg outlined a
 technological radicalism attacking commercial television, arguing that
 it was ‘a conditioning agent rather than a source of enlightenment’ for
 the masses.[^03chapter2_76] Video was seen as a decentralising force that had the
@@ -2146,7 +2148,7 @@ greater than that of a mere improvement of an old medium, that videotape
 could be a powerful cultural tool’.[^03chapter2_78] He provides a theoretical
 context for Guerrilla television, and this is also where his influences
 are most strongly seen; arguing that ‘Americans are information
-junkies’. He was influenced by the cybernetics of Norbert Weiner and
+junkies’. He was also influenced by the cybernetics of Norbert Wiener and
 Buckminster Fuller, with his theoretical exploration resting on four
 elements; ‘a philosophy of media ecology, a critique of ‘Media-America’
 and broadcasting, a belief in video as a remedy to this system, and a
@@ -2311,7 +2313,7 @@ that ‘digital platforms… reduce the difference between film and video to
 a question of rhetorical (as opposed to technical) formatting.’[^03chapter2_91] To
 explore some of these ideas and the effects of digital technology on the
 production of personal media I now want to contextualize some of the
-elements of digital technology that have contributed to this. I now turn
+elements of digital technology that have contributed to this. As such, I now turn
 to the socio-technical considerations that make up the technical a
 priori of videoblogging. To do this, I briefly explore some of the
 genealogies of key technologies in the context of video and the
@@ -2384,7 +2386,7 @@ internet.
 
 [^03chapter2_17]: Jenkins, *Convergence Culture. Where Old and New Media Collide*.
 
-[^03chapter2_18]: Steve Job’s letter from April 2010 expands on Apple’s reasoning
+[^03chapter2_18]: Steve Jobs’ letter from April 2010 expands on Apple’s reasoning
     behind choosing to disallow Flash on the iPhone. Jobs explains that
     Apple is committed to open standards on the web, and that Flash is
     100% a propriatory product owned by Adobe. Further, he points out
@@ -2414,8 +2416,7 @@ internet.
     https://groups.yahoo.com/neo/groups/videoblogging/conversations/messages/53080
 
 [^03chapter2_20]: Although it seems highly likely that Socrates would not have had
-    this nightmare, not that Keen offers any useful insight into
-    Socrates’ though – who theorized that we all have the capacity to
+    this nightmare, he theorized that we all have the capacity to
     ‘remember’ complex ideas.
 
 [^03chapter2_21]: Andrew Keen, *The Cult of the Amateur: How blogs, MySpace,
@@ -2538,8 +2539,8 @@ internet.
     cuts. Godard must be vomiting as we speak... Free your mind, tell
     your stories in whatever way feels good to you. Life’s too short.’
     Two of my informants also listed Godard as one of the filmmakers
-    influencing their work (Sam, Brittany). One also cited Vertov as
-    influential on his work (Sam).
+    influencing their work (Sam Reinsew, Brittany Shoot). One also cited Vertov as
+    influential on his work (Sam Reinsew).
 
 [^03chapter2_45]: Jean Burgess, ‘Re-mediating Vernacular Creativity: Digital
     Storytelling’, Paper Presented at *First Person: International
@@ -2598,12 +2599,11 @@ internet.
 
 [^03chapter2_57]: Marker, ‘Marker Direct’: 39.
 
-[^03chapter2_58]: We only need to look at more recently years to see how similar
-    technologies are now being used for instance in the Black Lives
+[^03chapter2_58]: Similar
+    technologies are now being used in the Black Lives
     Matter movement in America. Black Lives Matter are utilising
     personal media technologies, social media and video technology to
-    engage citizens on a grass root level, and the even more recent
-    media attention around the campaign \#metoo.
+    engage citizens on a grass root level. This is also seen in the campaign \#metoo.
 
 [^03chapter2_59]: Stark, ‘Cinema in the Hands of the People’: p. 126-127.
 
@@ -2676,7 +2676,7 @@ internet.
     ochange\_182.pdf.
 
 [^03chapter2_77]: The videobloggers were certainly aware of the work of McLuhan, as
-    a few quotes off the email list shows; ‘I just stumbled on this
+    a few quotes off the email list show; ‘I just stumbled on this
     superb quote from Marshal McLuhan. ‘The old medium is always the
     content of the new medium. As movies tend to be the content of TV
     and as books tend to be the content of movies.’ It pretty much
@@ -2777,7 +2777,7 @@ have in relation to internet technologies.
 
 In this chapter, I move rapidly through the history of a number of
 technical and social systems and due to limitations of space, I cannot
-hope to do it justice here. Nonetheless, the aim is to provide some
+hope to do them all justice here. Nonetheless, the aim is to provide some
 sense of the major events, technologies and movements that are important
 for the light they cast on understanding the rise of videoblogging,
 which is, of course, the focus of this book.
@@ -3091,7 +3091,7 @@ better quality files to be produced. In 1999, Apple also launched
 iMovie, a video editing software aimed at consumers, not professional
 filmmakers. This software radically simplified video editing by building
 on the abstraction that the QuickTime framework created. Needless to
-say, for videobloggers iMovie enabled a more rapid and professional
+say, for videobloggers, iMovie enabled a more rapid and professional
 looking production of video and was widely used.
 
 QuickTime 5.0 was launched in 2001, which allowed MPEG 1 video playback
@@ -3203,7 +3203,7 @@ that had dominated media discourse since 2005 gave way to studies
 showing how much online content people were consuming, how many hours of
 video were being watched on YouTube and so on. This shift is mirrored by
 the development of QuickTime. After four years of few major updates,
-QuickTime X launched. This was significant, moving QuickTime from being
+QuickTime X launched. This was significant, moving QuickTime from being a
 specialised tool to a social media oriented application. In this
 upgrade, Apple introduced visual chapters and the ability to perform
 more complex editing from within QuickTime itself. It also supported
@@ -3292,7 +3292,7 @@ made to tackle the platform analytically, providing useful overviews of
 the service, it’s users and cultural significance. These studies often
 do so at the cost of much detailed investigation into the specifics of
 the platform. Jean Burgess and Joshua Green’s important text on YouTube
-gives a valuable snapshot of the platform. They create a typology of the
+gives an impressive snapshot of the platform. They create a typology of the
 videos found on YouTube, from corporate advertising campaigns, via music
 videos, fan videos and vlogging. This survey is incredibly valuable as
 it gives us an indication of where the platform was at the time and how
@@ -3308,7 +3308,7 @@ content far outweighed the traditional when it came to most discussed
 and most responded to, thus reinforcing the value of vlogging for a
 sense of community.
 
-Patricia Lange points out a number of what she calls (mis)conceptions
+Patricia Langeon the other hand, points out a number of what she calls (mis)conceptions
 about YouTube. The first is that YouTube is a video sharing site. She
 argues that in addition to sharing videos there, ‘for a subset of
 participants, YouTube is an imagined community of people who share an
@@ -3330,15 +3330,14 @@ community or even part of a specific community or group of friends. The
 contention is rather that not all people who watch videos on YouTube are
 casual two-minute viewers of specific videos’.[^04chapter3_36]
 
-By January 2009, it was estimated that 100.9 million viewers watched 6.3
+>By January 2009, it was estimated that 100.9 million viewers watched 6.3
 billion videos on YouTube.com (62.6 videos per viewer) for a 43 per cent
 market share. In comparison, Fox Interactive Media ranked a distant
 second in terms of videos viewed, with 552 million videos (3.7 per
 cent). On a global scale, 77 per cent of the total US Internet audience
 watched online video for an average of six hours in January 2009.[^04chapter3_37]
 
-But the focus is on consumption of online video, rather than production.
-In fact, towards the end of 2009, what we see is a shift in the way
+Towards the end of 2009, what we see is a shift in the way
 social media use was being reported; whereas so far the focus had been
 mainly on participation, and the way in which new participatory media
 opened up far wider audience interaction, at the end of 2009, the focus
@@ -3353,7 +3352,7 @@ distinction between online and offline behaviour. YouTube’s expansion
 into ‘offline’ media continued with the announcement, in April 2009, of
 a partnership with Sony ‘to expand its library of movies and TV shows’.
 The extent to which YouTube is an accepted part of the media landscape
-is reflected in the decision of the Library of Congress to create its
+is also reflected in the decision of the Library of Congress to create its
 own YouTube channel. During spring 2009, the Library announced that it
 would begin to upload millions of clips to YouTube.
 
@@ -3371,12 +3370,12 @@ series or film. On the other hand, sites such as YouTube allow its users
 to upload videos up to 15 minutes long and files larger than 20GB.
 Video-sharing also moved out of the browser and into mobile
 applications, which are highly personal (also see Lovink on what he
-calls ‘*totale Mobilmachung*’ of visual culture).[^04chapter3_39] Nanna Verhoeff
+calls ‘*totale Mobilmachung*’ of visual culture).[^04chapter3_39] Similarly, Nanna Verhoeff
 argues that ‘screens are objects, technologies, apparatuses and machines
-of vision, all at once.[^04chapter3_40]
+of vision, all at once’.[^04chapter3_40]
 
 To complete this compressed history of digital video, more recently, in
-September 2011, Snapchat was launched. Initially named *Picaboo*,
+September 2011, Snapchat was launched. Initially named Picaboo,
 Snapchat originally allowed users to share images that would
 self-destruct after a few seconds. The app has since introduced
 video-sharing and ‘stories’ – where users can post updates throughout
@@ -3680,7 +3679,7 @@ to reap the profits from almost complete control of video online.
     Intel, a process first made public at the World Wide Developer
     Conference in 2005. The process was completed in August 2009, with
     the release of the ‘Snow Leopard’ upgrade to the Mac operating
-    system, at which point Apple dropped all support for Power PC.
+    system.
 
 [^04chapter3_44]: https://www.youtube.com/user/MichellePhan.
 
@@ -3842,7 +3841,7 @@ recommend, and links to community websites, services and platforms.
 Similar to a blog, the videoblog had an available archive, a profile
 page and a profile image.
 
-![](imgs/ch4fig4.png)
+![](imgs/Figure 4.tiff)
 
 Figure 4: Typical videoblog post
 
@@ -3871,7 +3870,7 @@ QuickTime, due to the reliance on Apple hardware and software to create
 the videos, but other formats were often included to widen the possible
 audience. 
 
-![](imgs/ch4fig5.png)
+![](imgs/Figure 5.png)
 
 Figure 5: *Mum's Brag vlog* by Erin Nealy. Sidebar with blogroll.
 
