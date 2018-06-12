@@ -152,9 +152,9 @@ recommend, and links to community websites, services and platforms.
 Similar to a blog, the videoblog had an available archive, a profile
 page and a profile image.
 
-![](imgs/ch4fig4.png)
+![](imgs/Figure 4.tiff)
 
-Figure 4: Typical videoblog post
+Figure 4: Typical videoblog post.
 
 A blog could be said to be made up of four main components. There was
 the main body of text, which would contain the most recent post at the
@@ -181,7 +181,7 @@ QuickTime, due to the reliance on Apple hardware and software to create
 the videos, but other formats were often included to widen the possible
 audience. 
 
-![](imgs/ch4fig5.png)
+![](imgs/Figure 5.png)
 
 Figure 5: *Mum's Brag vlog* by Erin Nealy. Sidebar with blogroll.
 
@@ -220,7 +220,7 @@ Bernard Geoghegan argues that a ‘technological a priori defines the
 scope and logic of distinct cultural formations and epistemes’.[^05chapter4_8] In
 this case, standards grew out of a number of cultural techniques that
 were shared amongst the members of the videoblogging community. As
-Adrian Miles, videoblogger, early community member and academic of
+Adrian Miles, videoblogger, early community member and academic researching
 hypertext, narrative and technical systems, explained, ‘in terms of
 codecs and picking up an earlier question about standards. I use
 \[QuickTime\] for everything because I do interactive work and it is the
@@ -321,7 +321,7 @@ mobile phone, using the Nokia N95 (Steve Garfield and Rupert Howe), with
 three others (Andreas Hagustrup Pedersen, Sam Reinsew and David Howell)
 explaining that they combined mobile phone with a hand-held camera.
 Casey McKinnon, who aimed to build a career from her videoblog sci-fi
-show, Galacticast, shot video on a HD digital camera. A small group shot
+show, *Galacticast*, shot video on a HD digital camera. A small group shot
 on ‘digital cameras’ (Loiez Deniel, Juan Falla, Jen Proctor, Gromik
 Nicholas and Raymond M. Kristiansen) and the rest referred to their
 recording equipment as ‘hand-held’ (Richard BF, Richard Hall, Mary
@@ -346,8 +346,7 @@ success within the videoblogging community. The classic videoblogging
 shot was filming yourself using your right arm stretched out in front of
 you, and pointing the camera at yourself, the kind of image that has
 become immortalised in the notion of the ‘selfie’ today. The Xacti
-allowed you to flip the viewfinder towards oneself, which meant it was
-easy to film. Importantly, the Xacti was one of the first video cameras
+allowed you to flip the viewfinder towards your face, which made it easy to film yourself. Importantly, the Xacti was one of the first video cameras
 to move away from physical media. The camera relied on digital storage,
 and did not use videotape or discs, storing video on a flash memory
 card, making it easy to transfer to a computer.
@@ -387,7 +386,7 @@ promises of making it available for Windows, and that the links between
 the Mac and videoblogging were reinforced by the use of QuickTime.
 
 Ironically, this technical specificity wasn’t really remarked upon by
-the videobloggers, beyond a comment by Casey about the need to switch
+the videobloggers, beyond a comment by Casey McKinnon about the need to switch
 from one to another for professional reasons; ‘for the first year and a
 half, we used a PC,’ she told me. ‘However, due to the demands of our
 new HD camera we are currently making a switch over to Mac in order to
@@ -459,7 +458,7 @@ listening to music but watching videoblogs or videos from YouTube, etc.’
 In other words, the computer and the content found on the internet is
 increasingly, for Falla, competing with ‘traditional television’ for the
 attention of the viewer. Videobloggers were in some sense early adopters
-of digital cultural practices that have become very dominant today.
+of digital cultural practices that have become dominant today.
 Their practices signalled the merging of television and the computer
 that has later manifested itself in the form of ‘streaming’ boxes like
 the Apple TV and Fire TV.
@@ -486,19 +485,13 @@ The videobloggers very much lived the coming world of online video in
 their everyday practices – even if the tools were still relatively
 primitive by todays standards.
 
-![](imgs/ch4fig7.tiff)
-
-
-Figure 7: Number of emails posted to the
-videoblogging email list (June 2004 – July 2016). Screenshot taken from Yahoo.
-
 I now want to turn my attention to the textual practices of the
 videobloggers and how they used various forms of writing systems, such
 as email, to build, develop and strengthen the videoblogging community.
 In the period between 2004 and 2007, the videoblogging community went
 from a small group of enthusiasts to a vibrant community of users. The
-group met online on each other blogs and videos but also through the
-Yahoo group Email list. The Yahoo group was the heart and soul of the
+group met online on each other’s blogs and videos but also through the
+Yahoo group email list. The Yahoo group was the heart and soul of the
 videoblogging community. New members were always greeted by at least a
 few members, and encouraged to share links to their blogs, RSS feeds and
 personal information. To begin with, the email list recruited mainly
@@ -515,6 +508,13 @@ participation’, this period was probably the most active (figure 7). In
 more recent years the list has seen months go by with only 3 or 4 posts,
 quantitatively demonstrating the way in which the videoblogging
 community had changed and slowly declined.[^05chapter4_18]
+
+![](imgs/Figure 7.tiff)
+
+
+Figure 7: Number of emails posted to the
+videoblogging email list (June 2004 – July 2016). Screenshot taken from Yahoo.
+
 
 The email list occupied a crucial position in relation to videoblogging
 and the videoblogging community. It functioned as the initial meeting
@@ -600,7 +600,7 @@ full as I think it gives a good flavour of the very early discussions;
 Topics such as these were a constant theme in the conversations about
 the practice of videoblogging. As previously discussed, the technologies
 available to non-professional media creators at the time were limited,
-under-developed and expensive and the opportunities that were seen to be
+under-developed and expensive, and the opportunities that were seen to be
 opening up in relation to the rise of Web 2.0 technologies gave the
 videobloggers a sense of being part of an exciting change in media.
 
@@ -627,7 +627,7 @@ videoblogs themselves, thus spawning a new genre of videoblogs – what
 one could call meta-videoblogs, or videoblogs about videoblogging. This
 was exemplified in 2005, when Michael Verdi, an active member of the
 group and co-founder of Freevlog, posted his seminal and hugely
-influencial; video *Vlog Anarchy*. Filmed in his home, Verdi presents
+influencial video; *Vlog Anarchy*. Filmed in his home, Verdi presents
 what can only be described as a manifesto against manifestos, a call for
 the community to stop trying to define what videoblogging is. In the
 raw, unedited piece, Verdi laments the tendency among the early adopters
@@ -639,7 +639,7 @@ for the Vlog Deathmatch challenge, one of many community events
 organized by the Videoblogging community. This took the form of karaoke
 which was then voted on to determine the best video.[^05chapter4_24]
 
-Although the majority of early videoblogs fell into what I categorised
+Although the majority of early videoblogs fell into what I categorise
 as ‘personal’ video, Rocketboom was one videoblog that was distinctive
 and new. Andrew Michael Baron founded Rocketboom in October 2004, and
 until it closed down in November 2013, produced short videos that
@@ -653,13 +653,13 @@ December, Rocketboom claimed that it cost about \$20 to produce an
 episode, yet they were able to reach an audience the same size as shows
 such as ‘Crossfire’ on CNN, a remarkable achievement. In September 2005,
 Business Week covered the faux news show in a magazine feature that the
-Internet was becoming more videocentric. Many of the members of the
-videoblogging community, including Zadi Diaz, Richard Hall and Steve
-Garfield, provided ‘raw footage’ for Rocketboom but also worked to draw
-attention – and viewers – to their own sites. Rocketboom was therefore
+Internet was becoming more videocentric. Rocketboom was therefore
 one of the first videoblogs to ‘break out’ and find popularity beyond
 the videoblogging community, even being featured on American TV drama
-CSI in February 2006.
+CSI in February 2006. Many of the members of the
+videoblogging community, including Zadi Diaz, Richard Hall and Steve
+Garfield, provided ‘raw footage’ for Rocketboom which also worked to draw
+attention – and viewers – to their own sites. 
 
 A key technology in the technical constellation around videoblogging
 that helped simplified video distribution, was Feedburner. It was
@@ -701,7 +701,7 @@ feeds and allowed the user to play videos on the desktop. As one
 videoblogger explained, ‘the point of using an in-computer aggregator
 program like FireAnt would be the added benefit to the user that ‘new
 video (and other) posts are automatically downloaded’.[^05chapter4_29] This
-automatic downloading of new episodes made following videoblogs such
+automatic downloading of new episodes made following videoblogs much
 simpler. It also created a helpful abstraction from the inherent
 complexity and messiness of web-links and surfing between blogs. Users
 would be able to identify new videos and keeping up with episodes would
@@ -764,9 +764,7 @@ feeling it was part of the community.[^05chapter4_30]
 
 The functionality of FireAnt was described by one of the founders,
 Joshua Kinberg, in an email in July 2005. He explained that FireAnt
-allowed the user to
-
-‘subscribe to any RSS 2.0 feed, with Bit Torrent built in.’[^05chapter4_31] It
+allowed the user to ‘subscribe to any RSS 2.0 feed, with Bit Torrent built in.’[^05chapter4_31] It
 could playback most media formats, and sync media to iPods or Sony
 Playstations. FireAnt allowed you to organise your content with tags,
 had built in Yahoo video search and its ‘integrated directory of
@@ -948,7 +946,7 @@ user experience, and not necessarily for the better.
 Video hosting became an integral part of the extended videoblogging
 platform. Initially, the videobloggers hosted their own content on their
 own sites – leading to a range of problems, for example, Howe’s mention
-in the New York Times as discussed earlier in the book. To work around
+in *The New York Time*s as discussed earlier in the book. To work around
 these problems, the community worked closely with a number of sites and
 developers to solve them. Among them, OurMedia.org, founded by J.D.
 Lasica and Marc Canter in 2005 acted as a front-end for Archive.org,
@@ -1009,7 +1007,7 @@ content they might want to keep before Blip deleted it, a startling turn
 around for a company that had worked hard in its early days to make
 connections with the videoblogging community.
 
-But from the start, Blip was very secretive about its business
+But from the start, Blip had been very secretive about its business
 decisions. They soon stopped engaging in community conversations on the
 email list. Dedman told me;
 
@@ -1057,13 +1055,13 @@ few responses and, as had become increasingly common within the
 community at that time, they were mostly about technical issues. The
 initial reaction from the community concerned formats, and particularly
 YouTube’s decision to convert video submissions to a flash video file, a
-proprietary web format owned by Adobe.[^05chapter4_44]
+proprietary web format owned by Adobe.
 
 The reactions ranged from a disappointed ‘everyone is doing Flash...’ to
 the more dismissive; ‘Flash gives me hives’. Flash was a mediocre
 format, providing an inferior image quality. As Cubitt points out, ‘like
 VHS, and so many other victors of previous format wars, they are only
-good-enough’. YouTube’s decision to use interlaced streaming meant that
+good-enough’.[^05chapter4_44] YouTube’s decision to use interlaced streaming meant that
 the videobloggers – who valued quality above anything else – were
 unimpressed. For the average user, however, who just wanted to watch the
 latest viral video, YouTube was ideal. In an episode of the podcast *The
@@ -1129,7 +1127,7 @@ were mainly related to technical issues, such as quality of videos,
 formats and codecs. But there were also concerns about ownership and
 branding, as well as being able to retrieve content back out of YouTube
 after uploading it. Despite being lauded as one of the most successful
-web 2.0 start ups, Uricchio argues that, ‘while YouTube’s economic model
+Web 2.0 start ups, Uricchio argues that, ‘while YouTube’s economic model
 is indeed predicated on participation, it fails the ‘2.0 test’ since
 users may only upload — and not download — its videos’.[^05chapter4_50] The ability
 to download videos might not seem like a deal breaker for the average
@@ -1159,8 +1157,7 @@ things and care’ – and so the apparent problem of rapid changes in
 codecs and format ‘isn’t an issue’ for them. Here we can see the
 construction of a discourse that places YouTube on one hand and the
 videobloggers on the other in terms of different cultural practices
-distinctive to each. YouTube’s focus on content that attracts audiences,
-with video that is low quality (in technical as well as cultural terms),
+distinctive to each. YouTube’s focus on content that is low quality (in technical as well as cultural terms),
 in order to attract audiences, advertisers and corporate sponsorships,
 whereas the ‘craft’ of the videoblogging community lay in being able to
 negotiate a complex technical constellation and produce a distinctive,
@@ -1194,7 +1191,7 @@ the rejection by the videobloggers of the low technical and aesthetic
 standards associated with posting videos to YouTube becomes part of the
 very definition of the high technical and aesthetic quality that make
 videoblogging somehow *better*, or more ‘noble’. It also cemented
-YouTube as videoblogging’s other.
+YouTube as videoblogging’s *other*.
 
 As with most creative communities, the videobloggers organised a number
 of events over the years. These aimed to develop the community
@@ -1217,7 +1214,7 @@ the first independent video festival for internet film, held over a
 weekend at the American Film Institute in Los Angeles. The event
 combined speakers and presentations, workshops and social gatherings
 with screenings of videoblogs, all curated by members of the
-videoblogging community. The Vloggies were the videoblogging community’s
+videoblogging community. The *Vloggies* were the videoblogging community’s
 award show, which was first held in San Francisco in 2006. PodTech
 produced the event, but it was the brainchild of Irina Slutsky and many
 of the videobloggers were both nominated and won awards at the event
@@ -1263,7 +1260,7 @@ someone who had quite an idealistic view of videoblogging, told me he
 ‘never quite understood what happened’ with FireAnt. When the project
 failed to raise money, it became apparent that FireAnt was in financial
 trouble. Perhaps the different attitudes was part of the problem, but it
-didn’t seem to Jay as if anything was happening to further the appeal of
+didn’t seem to Jay Dedman as if anything was happening to further the appeal of
 FireAnt. ‘Again, I didn’t think we’d get rich, but I didn’t have a
 better plan. Ryanne \[Hodson\] and I were busy putting on Vloggercon SF,
 *Pixelodeon* in LA, and having fun in the community. My main job in
@@ -1330,27 +1327,26 @@ discuss in the next chapter.
     2009, p. 109-110.
 
 [^05chapter4_5]: Possibly this was because Wordpress was open source, whereas
-    Blogger was a proprietary piece of software. Blogger was the first
+    Blogger was proprietary software. Blogger was the first
     truly mainstream blogging software, allowing anyone to create and
     maintain a blog without needing any prior technical knowledge of web
     design, programming or coding Infinitely customizable, Blogger grew
     exponentially after being purchased by Google in 2003.
 
-[^05chapter4_6]: In the case of Veoh, it was founded by Dmitry Shapiro in September
-    2005, Veoh combined user-generated content with professionally
-    produced network content from among others CBS, ABC and ESPN. Veoh
-    transcoded user-generated content into Flash and was not considered
-    a good option within the videoblogging community. Veoh filed for
-    bankruptcy in February 2010, before being acquired by Israeli
-    start-up company Qlipso in April 2010. I discuss Vimeo in more
-    detail later in the chapter. There are technical solutions to this
+[^05chapter4_6]: There are technical solutions to this
     today of course, sites such as Tubesock and KeepVid are some
     examples of clients that allow you to circumvent this. Tubesock
     (http://stinkbot.com) and Keepvid (https://keepvid.com) were both
     designed to download and convert content from YouTube or other
     flash-based video sites into other formats. They were especially
     popular with people who liked to view their video content on devices
-    such as the video iPod. These sites are still active today.
+    such as the video iPod. These sites are still active today. In the case of Veoh, it was founded by Dmitry Shapiro in September
+    2005, Veoh combined user-generated content with professionally
+    produced network content from among others CBS, ABC and ESPN. Veoh
+    transcoded user-generated content into Flash and was not considered
+    a good option within the videoblogging community. Veoh filed for
+    bankruptcy in February 2010, before being acquired by Israeli
+    start-up company Qlipso in April 2010.
 
 [^05chapter4_7]: A condition of possibility for knowledge in the Foucauldian sense.
     See Jussi Parikka, ‘Friedrich Kittler - a media anthropology without
@@ -1417,10 +1413,10 @@ discuss in the next chapter.
 
 [^05chapter4_24]: Vlog Deathmatch (http://vlogdeathmatch.blogspot.co.uk) Howe’s
     entry *Anarchy in the UK* was built shot, edited and uploaded on his
-    Nokia N96, as he travelled around London (showing sites such as
-    Parliament, Big Ben, Downing Street and the London underground, all
+    Nokia N96, as he travelled around London showing sites such as
+    Parliament, Big Ben, Downing Street and the London underground,
     while miming into his phone. With its stripped back production
-    values and low quality sound and image, paid homage to Verdi’s
+    values and low quality sound and image, it paid homage to Verdi’s
     argument that videoblogging “can be as punk rock as we want it to
     be”.
 
@@ -1430,8 +1426,7 @@ discuss in the next chapter.
 
 [^05chapter4_26]: Just like the ‘blogosphere’ became a collective term used when
     talking about the network of people who write and read blogs, the
-    vlogosphere became a term for the collective consideration of anyone
-    involved in the practice of videoblogging, be it producing or simple
+    vlogosphere became a term for the collective practice of videoblogging, be it producing or simple
     consuming the videoblogs.
 
 [^05chapter4_27]: Joshua Kinberg, Email to Videoblogging List 12 July 2005,
@@ -1567,7 +1562,7 @@ discuss in the next chapter.
     November 2017.
 
 [^05chapter4_56]: There was a big contention in the community in 2007 over
-    trademark rights to the ‘Vloggies’ brand, when PodTech claimed
+    trademark rights to the ‘Vloggies’ brand when PodTech claimed
     ownership over it and subsequently fired Irina Slutsky. Whether the
     Vloggies should ‘belong to the community’ or be owned by a company
     were hotly discussed on the videoblogging list (see the full
