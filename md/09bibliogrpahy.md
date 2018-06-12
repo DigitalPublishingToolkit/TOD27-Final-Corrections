@@ -243,7 +243,7 @@ Institute for Networked Cultures, 2008.
 
 Dawson, Jonathan. ‘Dziga Vertov’, *Senses of Cinema,* issue 23 (2003).
 
-De Certeau, Manuel. *The Practice of Everyday Life: Living and cooking,*
+De Certeau, Michel. *The Practice of Everyday Life: Living and cooking,*
 (Trans. Steven Rendall), Berkeley and Los Angeles: University of
 California Press, 1984.
 
