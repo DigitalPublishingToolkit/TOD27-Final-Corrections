@@ -189,9 +189,9 @@ list, with an average of 300 messages sent each month. In December 2004
 this jumped to over 1000 messages, which led the way into one of the
 most active years in the history of the community.[^03chapter2_7] On July 9th 2005,
 Adam Quirk, initiated and hosted the first ever Vloggercue (videoblogger
-BBQ) on his roof-top in Hoboken, New York. Adam had started
+BBQ) on his roof-top in Hoboken, New York. Quirk had started
 videoblogging in 2004 when there were only a handful of people on the
-videoblogging list. An introvert, Adam had found it difficult to get to
+videoblogging list. An introvert, Quirk had found it difficult to get to
 know people after he’d moved to the city with just his girlfriend and
 his cat, and videoblogging afforded him the chance to ‘have
 conversations with these other people online and experience some kind of
@@ -199,8 +199,7 @@ socializing without having to resort to going to bars and meeting
 strangers face to face’. Vloggercue 2004 was attended by a small group
 of videobloggers, among them Jay Dedman, Steve Garfield, Bre Pettis (who
 started the website *We are the Media* and would go on to found
-MakerBot), the founders of Blip.tv, Ryanne Hodson (co-founder of
-*Freevlog*), Josh Leo (one of the youngest videobloggers at the time,
+MakerBot), the founders of Blip.tv, Josh Leo (one of the youngest videobloggers at the time,
 and later host of the web show *Daily Kawaii*) and Chris Weagel (who
 found success with the daily – and slightly absurd – videoblog
 production company *Human Dog*). This was the first time many of the
@@ -232,9 +231,9 @@ quote by filmmaker Francis Ford Coppola, who once said that his
 > professionalism about movies will be destroyed forever and it will
 > become an art form.[^03chapter2_9]
 
-*Fat Girl In Ohio* was Howe’s second videoblog.[^03chapter2_10] In the spring of
+*Fat Girl In Ohio* was Howe’s second videoblog. In the spring of
 2005 he had been working for his father, but he was bored and spent his
-days making short videos which he posted to a blog, and messing around
+days making short videos which he posted to a blog[^03chapter2_10], and messing around
 on the internet. Without a distribution network, Howe had been emailing
 the videos to his friends and his blog had little or no traffic. Again,
 this was all about to change.
@@ -438,7 +437,7 @@ archive of their lives, and argued that they would never dream of trying
 to make money from videos they saw as highly personal. After a
 particularly unpleasant exchange between a new member and the ‘core’
 community around the buying and selling of domain names, Steve Watkins,
-an active member who would often write long considered replies to
+an active member who would often write long, considered replies to
 issues, stated bluntly that ‘business and money often get a bit of a
 rough ride here, as they do elsewhere on the net. Some people have
 ideals about the net and what is happening with vlogging which doesn’t
@@ -456,7 +455,7 @@ introvert’, Gouvea never posted videos about her everyday life, yet told
 me her videos were ‘sometimes almost too personal, to a point where it
 might only make sense to me and a few select initiated’. Some tried to
 find ways to use their videoblogging skills to generate income in
-tangential ways. For instance, another videoblogger, Adam Quirk, told me
+tangential ways. Another videoblogger, Adam Quirk, told me
 ‘I don't think videoblogging itself will ever pay the bills, but I think
 I can find ways to make money through other projects related to it, such
 as creating video ads for other companies, or selling products through
@@ -657,7 +656,7 @@ but interestingly his work also consciously or unconsciously inspired
 the practice of videoblogging. Videobloggers followed one or more of
 Vertov’s elements in their work. Whether they explored everyday life,
 interactions with other videobloggers, stories with clear conventional
-narratives or more experimental videos, they told me their cameras –
+narratives or more experimental videos, their cameras –
 like the kino-eye – acted as an extension of their own eyes looking out
 on the world, catching life candidly and often blind to traditional
 cinematic conventions. Like Vertov, the videobloggers didn’t try to hide
@@ -708,7 +707,7 @@ amateur video production, both past and present, and by reflecting on
 the similarities and differences we can learn a lot about the
 motivations, trajectories and inspirations for the subsequent
 development of videoblogging. Nonetheless, it is helpful to follow the
-call to start in the middle ‘from the entanglement of past and present’
+call to start in the middle, ‘from the entanglement of past and present’
 and explore ‘the part-futures and future-pasts, as well as parallel
 side-lines of media archaeology.’[^03chapter2_36] This should not distract from
 seeing what is distinctive in particular historical constellations
@@ -807,7 +806,7 @@ which encourages a similar method for capturing photography, based on 10
 ‘anti-rules’, ‘clearly intended to offer resistance to the ways in which
 the rules of “professional photography” repress “ordinary” creativity
 and continually redraw the boundaries between amateur and
-professional’.[^03chapter2_45] Vertov continues to inspire film and photography
+professional’.[^03chapter2_45] Vertov also continues to inspire film and photography
 movements in the digital age.[^03chapter2_46] Here though, I want to draw attention
 to its use as an inspiration directly for videoblogging, particularly,
 Adrian Miles’ *Vogma Manifesto*, a list of ‘commandments’ for early
@@ -832,7 +831,7 @@ previously. As Astruc argued, ‘new age of the cinema \[is\] the age of
 caméra-styló (camera-pen)… the cinema will gradually break free from the
 tyranny of what is visual, from the image for its own sake, from the
 immediate and concrete demands of the narrative, to become a means of
-writing just as flexible and subtle as written language.[^03chapter2_49]
+writing just as flexible and subtle as written language’.[^03chapter2_49]
 
 Astruc imagined that the breakthrough for film and cinema as an art form
 would not come through the entertainment industry, where it had been
@@ -949,7 +948,7 @@ prosecutors. He eventually handed over the tapes, but was excused from
 identifying any of the individuals that featured on the video. He
 famously appeared on *The Colbert Report* on June 12^th^ 2007 where he
 discussed with Stephen Colbert whether or not bloggers should be
-considered journalists, arguing that bloggers’ practices and subject
+classified as journalists, arguing that bloggers’ practices and subject
 matter meant that they should be considered journalists even if they
 lack official recognition.
 
@@ -1037,7 +1036,7 @@ people’ to take control of their own media production and consumption.
 One of the early movements to articulate these ideas was the Guerrilla
 television movement.
 
-In the 1971 Guerrilla Television manifesto, Michael Shamberg outlined a
+In the 1971 Guerrilla Television Manifesto, Michael Shamberg outlined a
 technological radicalism attacking commercial television, arguing that
 it was ‘a conditioning agent rather than a source of enlightenment’ for
 the masses.[^03chapter2_76] Video was seen as a decentralising force that had the
@@ -1053,7 +1052,7 @@ greater than that of a mere improvement of an old medium, that videotape
 could be a powerful cultural tool’.[^03chapter2_78] He provides a theoretical
 context for Guerrilla television, and this is also where his influences
 are most strongly seen; arguing that ‘Americans are information
-junkies’. He was influenced by the cybernetics of Norbert Weiner and
+junkies’. He was also influenced by the cybernetics of Norbert Wiener and
 Buckminster Fuller, with his theoretical exploration resting on four
 elements; ‘a philosophy of media ecology, a critique of ‘Media-America’
 and broadcasting, a belief in video as a remedy to this system, and a
@@ -1218,7 +1217,7 @@ that ‘digital platforms… reduce the difference between film and video to
 a question of rhetorical (as opposed to technical) formatting.’[^03chapter2_91] To
 explore some of these ideas and the effects of digital technology on the
 production of personal media I now want to contextualize some of the
-elements of digital technology that have contributed to this. I now turn
+elements of digital technology that have contributed to this. As such, I now turn
 to the socio-technical considerations that make up the technical a
 priori of videoblogging. To do this, I briefly explore some of the
 genealogies of key technologies in the context of video and the
@@ -1291,7 +1290,7 @@ internet.
 
 [^03chapter2_17]: Jenkins, *Convergence Culture. Where Old and New Media Collide*.
 
-[^03chapter2_18]: Steve Job’s letter from April 2010 expands on Apple’s reasoning
+[^03chapter2_18]: Steve Jobs’ letter from April 2010 expands on Apple’s reasoning
     behind choosing to disallow Flash on the iPhone. Jobs explains that
     Apple is committed to open standards on the web, and that Flash is
     100% a propriatory product owned by Adobe. Further, he points out
@@ -1321,8 +1320,7 @@ internet.
     https://groups.yahoo.com/neo/groups/videoblogging/conversations/messages/53080
 
 [^03chapter2_20]: Although it seems highly likely that Socrates would not have had
-    this nightmare, not that Keen offers any useful insight into
-    Socrates’ though – who theorized that we all have the capacity to
+    this nightmare, he theorized that we all have the capacity to
     ‘remember’ complex ideas.
 
 [^03chapter2_21]: Andrew Keen, *The Cult of the Amateur: How blogs, MySpace,
@@ -1445,8 +1443,8 @@ internet.
     cuts. Godard must be vomiting as we speak... Free your mind, tell
     your stories in whatever way feels good to you. Life’s too short.’
     Two of my informants also listed Godard as one of the filmmakers
-    influencing their work (Sam, Brittany). One also cited Vertov as
-    influential on his work (Sam).
+    influencing their work (Sam Reinsew, Brittany Shoot). One also cited Vertov as
+    influential on his work (Sam Reinsew).
 
 [^03chapter2_45]: Jean Burgess, ‘Re-mediating Vernacular Creativity: Digital
     Storytelling’, Paper Presented at *First Person: International
@@ -1505,12 +1503,11 @@ internet.
 
 [^03chapter2_57]: Marker, ‘Marker Direct’: 39.
 
-[^03chapter2_58]: We only need to look at more recently years to see how similar
-    technologies are now being used for instance in the Black Lives
+[^03chapter2_58]: Similar
+    technologies are now being used in the Black Lives
     Matter movement in America. Black Lives Matter are utilising
     personal media technologies, social media and video technology to
-    engage citizens on a grass root level, and the even more recent
-    media attention around the campaign \#metoo.
+    engage citizens on a grass root level. This is also seen in the campaign \#metoo.
 
 [^03chapter2_59]: Stark, ‘Cinema in the Hands of the People’: p. 126-127.
 
@@ -1583,7 +1580,7 @@ internet.
     ochange\_182.pdf.
 
 [^03chapter2_77]: The videobloggers were certainly aware of the work of McLuhan, as
-    a few quotes off the email list shows; ‘I just stumbled on this
+    a few quotes off the email list show; ‘I just stumbled on this
     superb quote from Marshal McLuhan. ‘The old medium is always the
     content of the new medium. As movies tend to be the content of TV
     and as books tend to be the content of movies.’ It pretty much

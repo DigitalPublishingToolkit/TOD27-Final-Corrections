@@ -65,7 +65,7 @@ have in relation to internet technologies.
 
 In this chapter, I move rapidly through the history of a number of
 technical and social systems and due to limitations of space, I cannot
-hope to do it justice here. Nonetheless, the aim is to provide some
+hope to do them all justice here. Nonetheless, the aim is to provide some
 sense of the major events, technologies and movements that are important
 for the light they cast on understanding the rise of videoblogging,
 which is, of course, the focus of this book.
@@ -379,7 +379,7 @@ better quality files to be produced. In 1999, Apple also launched
 iMovie, a video editing software aimed at consumers, not professional
 filmmakers. This software radically simplified video editing by building
 on the abstraction that the QuickTime framework created. Needless to
-say, for videobloggers iMovie enabled a more rapid and professional
+say, for videobloggers, iMovie enabled a more rapid and professional
 looking production of video and was widely used.
 
 QuickTime 5.0 was launched in 2001, which allowed MPEG 1 video playback
@@ -491,7 +491,7 @@ that had dominated media discourse since 2005 gave way to studies
 showing how much online content people were consuming, how many hours of
 video were being watched on YouTube and so on. This shift is mirrored by
 the development of QuickTime. After four years of few major updates,
-QuickTime X launched. This was significant, moving QuickTime from being
+QuickTime X launched. This was significant, moving QuickTime from being a
 specialised tool to a social media oriented application. In this
 upgrade, Apple introduced visual chapters and the ability to perform
 more complex editing from within QuickTime itself. It also supported
@@ -580,7 +580,7 @@ made to tackle the platform analytically, providing useful overviews of
 the service, it’s users and cultural significance. These studies often
 do so at the cost of much detailed investigation into the specifics of
 the platform. Jean Burgess and Joshua Green’s important text on YouTube
-gives a valuable snapshot of the platform. They create a typology of the
+gives an impressive snapshot of the platform. They create a typology of the
 videos found on YouTube, from corporate advertising campaigns, via music
 videos, fan videos and vlogging. This survey is incredibly valuable as
 it gives us an indication of where the platform was at the time and how
@@ -596,7 +596,7 @@ content far outweighed the traditional when it came to most discussed
 and most responded to, thus reinforcing the value of vlogging for a
 sense of community.
 
-Patricia Lange points out a number of what she calls (mis)conceptions
+Patricia Langeon the other hand, points out a number of what she calls (mis)conceptions
 about YouTube. The first is that YouTube is a video sharing site. She
 argues that in addition to sharing videos there, ‘for a subset of
 participants, YouTube is an imagined community of people who share an
@@ -618,15 +618,14 @@ community or even part of a specific community or group of friends. The
 contention is rather that not all people who watch videos on YouTube are
 casual two-minute viewers of specific videos’.[^04chapter3_36]
 
-By January 2009, it was estimated that 100.9 million viewers watched 6.3
+>By January 2009, it was estimated that 100.9 million viewers watched 6.3
 billion videos on YouTube.com (62.6 videos per viewer) for a 43 per cent
 market share. In comparison, Fox Interactive Media ranked a distant
 second in terms of videos viewed, with 552 million videos (3.7 per
 cent). On a global scale, 77 per cent of the total US Internet audience
 watched online video for an average of six hours in January 2009.[^04chapter3_37]
 
-But the focus is on consumption of online video, rather than production.
-In fact, towards the end of 2009, what we see is a shift in the way
+Towards the end of 2009, what we see is a shift in the way
 social media use was being reported; whereas so far the focus had been
 mainly on participation, and the way in which new participatory media
 opened up far wider audience interaction, at the end of 2009, the focus
@@ -641,7 +640,7 @@ distinction between online and offline behaviour. YouTube’s expansion
 into ‘offline’ media continued with the announcement, in April 2009, of
 a partnership with Sony ‘to expand its library of movies and TV shows’.
 The extent to which YouTube is an accepted part of the media landscape
-is reflected in the decision of the Library of Congress to create its
+is also reflected in the decision of the Library of Congress to create its
 own YouTube channel. During spring 2009, the Library announced that it
 would begin to upload millions of clips to YouTube.
 
@@ -659,12 +658,12 @@ series or film. On the other hand, sites such as YouTube allow its users
 to upload videos up to 15 minutes long and files larger than 20GB.
 Video-sharing also moved out of the browser and into mobile
 applications, which are highly personal (also see Lovink on what he
-calls ‘*totale Mobilmachung*’ of visual culture).[^04chapter3_39] Nanna Verhoeff
+calls ‘*totale Mobilmachung*’ of visual culture).[^04chapter3_39] Similarly, Nanna Verhoeff
 argues that ‘screens are objects, technologies, apparatuses and machines
-of vision, all at once.[^04chapter3_40]
+of vision, all at once’.[^04chapter3_40]
 
 To complete this compressed history of digital video, more recently, in
-September 2011, Snapchat was launched. Initially named *Picaboo*,
+September 2011, Snapchat was launched. Initially named Picaboo,
 Snapchat originally allowed users to share images that would
 self-destruct after a few seconds. The app has since introduced
 video-sharing and ‘stories’ – where users can post updates throughout
@@ -968,7 +967,7 @@ to reap the profits from almost complete control of video online.
     Intel, a process first made public at the World Wide Developer
     Conference in 2005. The process was completed in August 2009, with
     the release of the ‘Snow Leopard’ upgrade to the Mac operating
-    system, at which point Apple dropped all support for Power PC.
+    system.
 
 [^04chapter3_44]: https://www.youtube.com/user/MichellePhan.
 

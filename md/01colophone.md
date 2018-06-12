@@ -131,9 +131,7 @@ Teller and Michael Verdi.
 Through what has been a rather tough year, my family have been patient
 and understanding, and I would like to thank my husband David for being
 there through all of it. Lastly, no words can describe the love and joy
-I get from my three wonderful children, Helene Bjørkmann Berry, Henrik
-Isak Bjørkmann Berry and Hedda Emilie Davidsdatter Bjørkmann Berry. This
-is for them.
+I get from my three wonderful children, Helene, Henrik Isak and Hedda Emilie Davidsdatter. This is for them.
 
 T.B.B.
 
