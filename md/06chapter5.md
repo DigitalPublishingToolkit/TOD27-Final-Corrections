@@ -484,7 +484,7 @@ and symbolic reasonings for focusing on the face in videoblogs, thus
 performing a kind of medium analysis of his own work. He began by giving
 a symbolic reasoning for his ‘directorial choices’ telling me that he
 focuses mainly ‘on the face. That’s how people watching the video
-‘connect’ with it. Because as a viewer we feel compelled and we can
+"connect" with it. Because as a viewer we feel compelled and we can
 understand and accept (or deny) a person’s reaction. And the best way is
 either by an action of the person, like in a movie; or by the person’s
 face.’ Falla then moves on to discussing how the medium of videoblogging
@@ -527,7 +527,7 @@ heart, yes, they are personal.  But do I show my face as much, talk
 about my life, how I feel?  No.  I let people draw assumptions from
 whatever I make’. Shoot talked at length about how she ‘used to show
 emotion when I talked to the camera, but it backfired when I got too
-angry on film’, and this effected her relationship with the
+angry on film’, and this affected her relationship with the
 videoblogging community. Equally, Daniel Liss never showed his face in
 his videos. Liss and Shoot’s positions echoes Patricia Lange’s notion of
 a ‘privately public’ videoblogger. [^06chapter5_22] Lange argues that despite
@@ -707,7 +707,7 @@ viewer a tour of her personal space highlighting the sense of intimacy.
 In her work, Hodson also explores the idea of videoblogging as a new
 platform for expression and free speech, a medium in which videobloggers
 express themselves – ‘I am so excited about videoblogging. Because I can
-say whatever I want and the FCC can’t do BLEEP’. This freedom of
+say whatever I want and the FCC can’t do [BLEEP]’. This freedom of
 expression, both artistic and political, was very important to her;
 ‘it’s like complete freedom, I post whatever I feel like. It’s like an
 open diary to the world.’ At the time, Hodson was working in television,
@@ -881,7 +881,7 @@ of young independent directors. Rather… we are in the midst of a new
 aesthetic positioning – one which, as usual, is picked up by the
 antennae of artists before becoming obvious to all… these are all
 conscious aesthetic choices, which have nothing to do with finances
-available to the production’. [^06chapter5_34]
+available to the production’.[^06chapter5_34]
 
 This can be seen as a deliberate stylistic choice, as much as a result
 of the constraints on the videoblogger due to equipment and bandwidth,
@@ -896,8 +896,8 @@ or network sitcom. Just as punk is opposed to the polish of pop, Web
 video is opposed to the gloss and sheen of Hollywood entertainment. That
 sense of opposition is the spirit and ethos of DIY production whether in
 music, publishing, or audio-visual media. As Frank describes it,
-videoblogging is ‘a cheap and fast alternative to making media — that
-looks cheap and fast’.[^06chapter5_35]
+videoblogging is "a cheap and fast alternative to making media — that
+looks cheap and fast"’.[^06chapter5_35]
 
 Throughout his work, Liss plays with form and narrative. He skips back
 and forth in time, for example, a sheet of paper is initially shown with
@@ -907,7 +907,7 @@ For example, the image of the New York building is shown twice before he
 uses it a third time with an inverted image of a hand layered over it.
 He manipulates the image by using double exposure on the images of the
 hand and the building, to highlight the mediated nature of videoblogs,
-pointing out that even when someone simply shoots-and-posts their videos
+pointing out that even when someone simply shoots-and-posts, their videos
 are still mediated. ‘To pretend that’s something unmediated in itself is
 I think a little naïve’, he explains. He also manipulates the sound,
 bringing in music at dramatic moments in the narrative, to create
@@ -953,7 +953,7 @@ Jameson’s Bonaventure Hotel. The cues for recognizing individuality via
 the ear become something other than the timbre of the voice: the melody,
 the beat, or a catch phrase, for instance’.[^06chapter5_36] Liss’ voice certainly
 contains some of these qualities. Contrary to the visuality of his
-videos (‘images are *out there*, on the screen, and framed by it’, the
+videos ‘images are *out there*, on the screen, and framed by it’, the
 sonic - and particularly his voice – ‘does not appear to stand before us
 but rather to come to us or at us’.[^06chapter5_37] His narration is melodic and
 rhythmic, clearly scripted, and yet, because it is repeated over the
@@ -961,8 +961,7 @@ narrative arc of his entire body of work, becomes synonymous with the
 videoblog itself. I would probably not recognise Liss if I walked past
 him on the street, but I would have no trouble picking his voice out.
 His voice is part of what makes his videoblogs unique, which emphasises
-that videoblogs are not just visual objects, but aural too in a very
-important aspect.
+that videoblogs are not just visual objects, but aural.
 
 Newman argues that videoblogging ‘might usefully be considered as
 self-taught art, a term art historians use to refer to artworks by
@@ -971,7 +970,7 @@ connection to the mainstream traditions of Western art history.”’ The
 self-taught artist is someone who lacks the skills considered the
 standard within a particular art world and ‘connotes an absence of rules
 for the artist to follow, a lack of familiarity with ‘proper’ ways of
-solving certain aesthetic problems.’[^06chapter5_38] So although he had no formal
+solving certain aesthetic problems.’[^06chapter5_38] Although he had no formal
 training, Liss was clearly familiar with both cinematic rules and how to
 apply them to develop his work and increase viewership. For example, at
 the end of *Theory: Practice*, Liss uses denouement to conclude his
@@ -1019,12 +1018,12 @@ videoblogging in that it exists within a social context that is not
 explicitly consumerist. Luers recognises that although the technologies
 available to the videobloggers (be it ‘RSS feeds, video compression
 codecs, and tagging systems’) can be seen as technical extension of
-advertising strategies, aimed at allowing the videblogger maximum
+advertising strategies, aimed at allowing the videoblogger maximum
 exposure and reach of her videoblogs, ‘rather than compete for attention
 in the marketplace, most vloggers look to their peers for feedback and
 conversation. For perhaps the first time, we have a somewhat organized
 public arena for a cinema without show business’. It might be argued
-that people videoblog to make their life cinematic prompting the
+that people videoblog to make their life cinematic, prompting the
 question of why dramatic conflict is a necessary filter for
 understanding the stories we occupy in our everyday? Further, he asks
 what we are missing in our private lives that can be rediscovered and
@@ -1044,7 +1043,7 @@ to change the experience of watching dramatically.
 
 To explore these ideas I look at the videoblogs of Juan Falla and his
 wife Ximena, who made videoblogs because they wanted to stay in touch
-with friends and family. [^06chapter5_41] Falla described his videoblog as a
+with friends and family.[^06chapter5_41] Falla described his videoblog as a
 reality show of their life in Los Angeles. Originally from Colombia,
 Falla told me they ‘wanted to show \[their\] families how \[their\] life
 is \[in LA\]… So we began shooting our selves doing normal things like,
@@ -1068,7 +1067,7 @@ instead of having a half hour video, we have a 3 or 5 minute “really
 nice video”’. Here, it would seem that Falla’s decision to make
 videoblogs of a certain length, which other videobloggers argued were
 made for technical reasons, such as restrictions on bandwidth, were in
-fact made for deliberate, stylistic, reasons.[^06chapter5_42] Later, he elaborated
+fact made for deliberate, stylistic, reasons. Later, he elaborated
 on this, telling me that ‘between you and me, I prefer the short video,
 instead of a long one. Our attention span is getting shorter every year,
 we want things to happen fast. So having short videos, things begin and
@@ -1170,8 +1169,8 @@ videoblogging at the time, explaining,
 Juan and Ximena in their kitchen, making Sancocho, a Colombian dish. It
 was first uploaded on 15th September 2006, so we can see that in the
 year after uploading *Greetings* (4:07min, 320x240), Falla was already
-improving their production values and experimenting with the quality of
-their videos. In *Sancocho*, Falla films using a combination of the PoV
+improving his production values and experimenting with the quality of
+his videos. In *Sancocho*, Falla films using a combination of the PoV
 shot (‘everything we show is based on our point of view’) and the
 talking head shot. Here, he holds the camera stretched out and slightly
 up above himself, in order to capture not just his face but his wife in
@@ -1238,7 +1237,7 @@ fact it is rarely more than 3 minutes long, with no necessary links to
 other videos, users or narratives, indicates that the videoblog is only
 meant to be viewed in gaps in the viewers’ daily schedule. Where Newman
 sees Web video as an ‘in-between’, I argue that actually the
-videoblogging community was always very much an invested network. The
+videoblogging community was always very much *an invested network*. The
 participants actively sought out other videoblogs to watch, creating
 meaning for its members through the very shared context in which it
 existed, the collective experiences of making and watching videoblogs
@@ -1304,7 +1303,7 @@ and start to look at what the videobloggers do.
    https://groups.yahoo.com/neo/groups/videoblogging/conversations/topics/79534.
 
 [^06chapter5_9]: Some videos, especially those in a flash format, couldn’t be
-    downloaded at the time, thus, some videoblogs were never archived.
+    downloaded at the time, so, some videoblogs were never archived.
 
 [^06chapter5_10]: Newman, ‘Ze Frank and the poetics of Web video’, see also Vito
     Campanelli, ‘The DivX Experience’, in Geert Lovink and Sabine
@@ -1332,14 +1331,14 @@ and start to look at what the videobloggers do.
 [^06chapter5_16]: Aymar Jean Christian, ‘Joe Swanberg, Intimacy, and the Digital
     Aesthetic’, *Cinema Journal,* 50. 4, Summer, (2011) pp. 123.
 
-[^06chapter5_17]: Scotish comedian Brian Limond, who is behind the popular *Limmy’s
+[^06chapter5_17]: Scottish comedian Brian Limond, who is behind the popular *Limmy’s
     Show* on BBC Scotland, adapted similar elements in his work. The
-    show featues many of the aesthetics, structures, and technical
+    show features many of the aesthetics, structures, and technical
     choices and limitations seen in the work of the videoblogging
-    community. It is worth noting that Limond started his carreer
+    community. It is worth noting that Limond started his career
     posting videos to Vine and YouTube, and returned to YouTube once his
     show was cancelled. Interestingly, his half hour special from 2018,
-    *Limmy’s Homemade Show*, was made self-made, using only
+    *Limmy’s Homemade Show*, was self-made, using only
     ‘videoblogging’ tools and technology.
 
 [^06chapter5_18]: Gilles Deleuze and Felix Guattari, *A Thousand Plateaus*, London:
@@ -1354,7 +1353,7 @@ and start to look at what the videobloggers do.
     mistakes in the original text, added as a deliberate critique of
     content on YouTube).
 
-[^06chapter5_20]: The Tumblr-based art project Webcam Tears features YouTube videos
+[^06chapter5_20]: The Tumblr-based art project Webcam Tears featuring YouTube videos
     of people crying is another example.
 
 [^06chapter5_21]: Christian ‘Joe Swanberg, Intimacy, and the Digital Aesthetic’, p.
@@ -1398,7 +1397,7 @@ and start to look at what the videobloggers do.
     from the videoblogging film festival *Pixelodeon*, he either shied
     away from being filmed, or requested that his face be blurred out.
     Amusingly, within the community, a cut out photo of the American
-    Actor Yul Brynner was often pasted over Liss’ face in photos as a
+    actor Yul Brynner was often pasted over Liss’ face in photos as a
     joke.
 
 [^06chapter5_34]: Campanelli**, ‘**The DivX Experience’, p. 52.
@@ -1424,12 +1423,8 @@ and start to look at what the videobloggers do.
 
 [^06chapter5_40]: Luers, ‘Cinema Without Show Business: a Poetics of Vlogging’.
 
-[^06chapter5_41]: Although Falla and Ximena made their videos together, Falla was
-    the main videoblogger who did most of the shooting and editing. It
-    was also him I interviewed, so unless indicated otherwise, it is his
+[^06chapter5_41]: Although Falla and Ximena made their videos together, Falla did most of the shooting and editing, so unless indicated otherwise, it is his
     voice that is heard here.
-
-[^06chapter5_42]: Newman,‘ Ze Frank and the poetics of Web video’.
 
 [^06chapter5_43]: Newman, ‘Ze Frank and the poetics of Web video’. This style was
     adapted by Amanga Congdon, anchor of the internet news videoblog
@@ -1447,8 +1442,8 @@ and start to look at what the videobloggers do.
 
 [^06chapter5_47]: Newman, ‘Ze Frank and the poetics of Web video’.
 
-[^06chapter5_48]: Newman’s point is well observed in relateion to recent videos on
-    Instagram, however, where videos are often accompanied by subtitles,
+[^06chapter5_48]: Newman’s point is well observed in relation to recent videos on
+    Instagram where videos are often accompanied by subtitles
     making it possible to watch them with the audio turned off. This
     indicates that the videos are being watched (or specifically
     designed to be viewed) in (social) situations where silence is
