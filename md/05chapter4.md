@@ -154,7 +154,7 @@ page and a profile image.
 
 ![](imgs/Figure 4.tiff)
 
-Figure 4: Typical videoblog post.
+Figure 4: *Mum's Brag vlog* by Erin Nealy.
 
 A blog could be said to be made up of four main components. There was
 the main body of text, which would contain the most recent post at the
@@ -183,7 +183,7 @@ audience.
 
 ![](imgs/Figure 5.png)
 
-Figure 5: *Mum's Brag vlog* by Erin Nealy. Sidebar with blogroll.
+Figure 5: Typical videoblog post. Sidebar with blogroll.
 
 Videoblogs generally featured short videos, each one usually between 1-5
 minutes in duration, which could be viewed, commented on and downloaded
