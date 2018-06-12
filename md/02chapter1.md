@@ -403,10 +403,10 @@ liberally applied to any group of people convening online around shared
 topics of interest. It follows, therefore, that the concept of ‘virtual
 community’ is open to a variety of interpretations at a variety of
 moments. That technologies affect social relations is also not a new
-idea. Already in 1990, Ursula Franklin announced herself “overawed by
+idea. Already in 1990, Ursula Franklin announced herself ‘overawed by
 the way in which technology has acted to reorder and restructure social
 relations, not only affecting the relations between social groups, but
-also the relations between nations and individuals”.[^02chapter1_31] The term
+also the relations between nations and individuals’.[^02chapter1_31] The term
 virtual community may seem somewhat out-dated today, as we now tend to
 think of groups of people who meet and socialise online as operating
 across social networks, yet to historically position videoblogging
@@ -459,7 +459,7 @@ internet, was a relatively small group of artists and video-makers who
 enthusiastically spent their time producing short digital films that
 they shared with the world through their blogs. YouTube was still in its
 infancy, social media did not exist and, to use a common internet meme,
-‘Pluto was still a planet’.[^02chapter1_36] And yet, this tiny community was
+Pluto was still a planet.[^02chapter1_36] And yet, this tiny community was
 ambitiously trying to create a new grammar, a fresh aesthetic and a
 genuinely sharing community of practice around the idea of
 ‘videoblogging’.
@@ -552,7 +552,7 @@ made possible to experience, when looked back upon, were actually noisy
 mechanical, and actually quite fragile constituent parts of a computer.
 It is clear then that ‘immateriality’ is an historically constructed and
 technically created form of experience in relation to the digital, much
-like the model, floppy disc or CD Roms.
+like the dial-up modem, floppy disc or CD Roms.
 
 Equally, the early instability of the videoblogging practice begs the
 question of how to study it. Following a long tradition of scholars
@@ -589,7 +589,7 @@ material. For example, some of the early cyber-feminism literature
 argued that ‘the virtual and material are intertwined and superimposed
 on every aspect of cyberspace’. It is also interesting to note the
 growing influence of New Materialisms, for instance in the work of Iris
-van der Tuin and Rosi Braidotti. [^02chapter1_50] At universities, studying the
+van der Tuin and Rosi Braidotti.[^02chapter1_50] At universities, studying the
 digital is no longer confined to a single strand within media studies,
 tagged on at the end of the course, but is being adopted across the
 humanities and the university more generally. Today we are faced with
@@ -665,8 +665,8 @@ videoblogs and the practices of videoblogging.
 
 [^02chapter1_1]: The banality of the title and content pointed in some ways to
     early video on the internet was predominantly
-    documentary/biographical or self-consciously aesthetic. As the New
-    York Times observed in 2009, ‘this founding clip makes and repeats a
+    documentary/biographical or self-consciously aesthetic. As *The New
+    York Times* observed in 2009, ‘this founding clip makes and repeats a
     larger point, too, with every pixel: Video — trivial or important —
     can now quickly and at no cost be published, broadcast and shared
     ‘Me at the Zoo’ also sets a style standard for the classic YouTube
@@ -683,7 +683,7 @@ videoblogs and the practices of videoblogging.
     this founding video as ‘Interesting…’.
 
 [^02chapter1_4]: Hermione Hoby and Tom Lamont, ‘How YouTube made superstars out of
-    everyday people’, The Guardian, 11 April 2010,
+    everyday people’, *The Guardian*, 11 April 2010,
     http://www.theguardian.com/technology/2010/apr/11/youtube-web-video-stars.
 
 [^02chapter1_5]: The Economist ‘New Tube’, *The Economist*, May 3-9 (2014).
@@ -849,7 +849,7 @@ videoblogs and the practices of videoblogging.
     Hachette UK, 2017.
 
 [^02chapter1_32]: For instance, Facebook was founded in February 2004, but didn’t
-    open registration to universities until October 2005, and to the
+    open registration to other universities until October 2005, and to the
     wider public in September 2006. Twitter launched in March 2006.
     Instagram was first released on the iTunes app store in October
     2010.
