@@ -24,7 +24,7 @@ Rights: CC BY-NC 4.0
 > 10 year old girl with her dad’s video camera, right? I think we all
 > know \[laughs\] that she’s a videoblogger.[^08chapter7_1]
 
-Understanding the close entanglement of culture and technology in this
+Understanding the close entanglement of culture and technology in the
 area of digital media production in the early 2000s – most notably in
 the self-definition and development of a community based around video
 objects and technologies – has been crucial in the development of this
@@ -123,9 +123,9 @@ expertise, created the conditions of possibility for videoblogging as
 practice. Although the central work of this book has been to present a
 cultural history and ethnographic analysis of the early developments of
 ‘online’ video, and to begin to trace the history of videoblogging
-before YouTube and the rise of social media, the key argument of this
+before YouTube and the rise of social media, a key argument of this
 book is that early internet video cultures are a forgotten but important
-aspect of the rise of video online. As such, the book examined the
+aspect of the rise of video online. As such, the book examines the
 interaction between the technical conditions of possibility and the
 everyday practices undertaken by videobloggers, understanding the
 emerging videoblogging platform through both Langlois et al’s
@@ -159,7 +159,7 @@ foundation to the original ethnographic research I have undertaken, and
 has allowed me to frame the critical engagement I have made with the
 material technologies and practices of videoblogging.
 
-Despite being involved in what became a ‘failed’ project,[^08chapter7_3] the
+Despite being involved in what became a ‘failed’ project, the
 videoblogging community developed and in some cases remediated some of
 the key aesthetic and technical practices that were taken up by
 subsequent online video users. For example, the visual effect created by
@@ -187,7 +187,7 @@ consultation with the former members of the videoblogging community, in
 order to acknowledge what has been established here; that the videos are
 far more than simply video files. They are crystallisations of the
 embodied practices, technical and aesthetic experimentations and
-personal narratives of a closely-knit community of interest.
+personal narratives of a closely knit community of interest.
 
 It is ironic to note that, despite their investment in community, and
 the fact it was sustained in part by demands of investing in/sharing
@@ -214,7 +214,7 @@ away, or moved to new social networks and video services. A sense
 remained, however, that these new services lacked something that the
 original videoblogging community had provided, ‘I have tried Vine a
 little bit,’ Dedman told me in 2013 ‘its cool. I love how simple
-videoblogging has gotten.’ Hence we can see that, with the ease of at
+videoblogging has gotten.’ With the ease of at
 first YouTube, and later, video applications such as Vine, Snapchat and
 Instagram, which allows professional looking video-editing at the tip of
 your fingers, the need for a specialised community space in which to
@@ -261,7 +261,7 @@ particularly in terms of a lack of strong proprietary platform
 control.[^08chapter7_4]
 
 This book has sought to fill a gap in previous studies of online video
-that generally didn’t engage with videoblogs and their materiality. This
+that generally haven't engaged with videoblogs and their materiality. This
 book is thus somewhat distanced from previous, screenic studies of
 videoblogging, which also tended to avoid issues of materiality. My
 concern has been with an approach to videoblogging which analyses it
@@ -406,7 +406,7 @@ practices, from YouTube to Instagram, Snapchat and Facebook, perhaps as
 a form of reconstituted dead or zombie media.[^08chapter7_14]
 
 Videoblogging is a cultural practice that, although somewhat changed in
-relation to the form that was prevalent in 2004-2007, is arguably now
+relation to the form that was prevalent in 2004-2007, is now
 expanding, as mobile phones and other technical devices incorporate new
 video cameras, software and technologies that enable the sharing and
 storing of moving image materials. Many of the commonplace practices we
@@ -433,12 +433,9 @@ private and public, individual and collective. In some senses, then,
 videoblogging is not so much the film of tomorrow, envisaged by Francois
 Truffaut in 1957, but rather the film of today.
 
-[^08chapter7_1]: *Vlog Anarchy*, transcript.
+[^08chapter7_1]: Verdi, *Vlog Anarchy*, transcript.
 
 [^08chapter7_2]: Parikka, *What is Media Archaeology?* p. 160.
-
-[^08chapter7_3]: Huhtamo and Parikka, ‘Media Archaeology: Approaches, Applications,
-    and Implications.’
 
 [^08chapter7_4]: Parikka, What is Media Archaeology?, p. 149.
 
@@ -463,7 +460,7 @@ Truffaut in 1957, but rather the film of today.
 
 [^08chapter7_12]: The issue of public culture and the way in which videoblogging
     and practices of video reading and writing can contribute to it lie
-    beyond the scope of this thesis, but remain suggestive of new means
+    beyond the scope of this book, but remain suggestive of new means
     for politics to reconnect with younger citizens who increasingly
     connect to public life through *video* in the first instance through
     platforms like YouTube, Facebook, Vine and Vimeo.
