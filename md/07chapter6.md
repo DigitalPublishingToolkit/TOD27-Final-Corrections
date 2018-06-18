@@ -35,11 +35,11 @@ it ‘reaches beyond individual experience and action towards the
 
 In this chapter, I want to use some of de Certeau’s insights to engage
 with videoblogging as a media practice. I seek to explore the embodied
-practices the videobloggers perform routinely. The focus on media as
-practice has intensified in scholarly writing in recent years[^07chapter6_3] but
+practices the videobloggers performed routinely. The focus on media as
+practice has intensified in scholarly writing in recent years but
 here I am also drawing particular attention to Nick Couldry’s notion of
 media as practice[^07chapter6_4] as a starting point for thinking about what
-videobloggers do with media. The emphasis on practice in the study of
+videobloggers do with media.[^07chapter6_3] The emphasis on practice in the study of
 media does not start with Couldry, nor is it unique to the study of
 media, but I think Couldry’s work is very helpful for thinking through
 the way in which videobloggers’ practices were organised and actualised.
@@ -59,7 +59,7 @@ discourse.[^07chapter6_6] Here, practices are understood as routine activities t
 are unconscious and ‘un-thought’ in character, as opposed to consciously
 chosen actions.[^07chapter6_7] Discourse is understood not only as the things
 people say, but the system of meanings that makes it possible for them
-to say anything in the first place. Se we can examine *videoblogging as
+to say anything in the first place. So we can examine *videoblogging as
 practice* as un-thought in character and how the practice of
 videoblogging is part of the everyday life of the videoblogger. By
 observing their practices, and by listening to how they articulate their
@@ -128,8 +128,7 @@ As previously discussed, my analysis involved a formal coding of the
 videos submitted, as well as a discursive analysis of the interviews.
 Despite many self-defining as artistic or experimental
 film/video-makers, in terms of a more formal theory of aesthetics, most
-fit in a category of autobiographical, or personal video-making.[^07chapter6_10]
-This resonates with the idea of videoblogging as a personal practice,
+fit in a category of autobiographical, or personal video-making. This resonates with the idea of videoblogging as a personal practice,
 drawing on influences such as home-movies and scrapbooking,[^07chapter6_11] which
 also use creative and artistic tropes. Few, if any, videobloggers have
 any institutional support or links with the traditional art world,
@@ -191,15 +190,14 @@ emotional bonds and friendships reinforced by the intimate form of the
 videoblog. Some videoblggers even formed strong real-world relationships
 and one couple who met through videoblogging actually married.
 
-Many of my informants would say their videoblog could be considered an
-art project or a personal diary. From the very beginning, the
+From the very beginning, the
 videoblogging community showed clear resistance against creating a
 unified definition of what videoblogging was or should be. I think it is
 helpful to think about videoblogging starting as an *empty
 signifier* which helped enroll video and film makers into a shared set
 of practices and which slowly began to coalesce around practices,
 technologies and aesthetics. There were no unambiguous *types* emerging
-at the end of my interviews, and instead it was more fruitful to look
+at the end of my interviews, so instead it was more fruitful to
 focus on *how* they described their practices, as well as examining the
 videos themselves.
 
@@ -227,7 +225,7 @@ Colan preferred ‘short personal documentaries’.
 | :-----------------------------|:----------------------------| 
 |   Zadi Diaz, Steve Garfield, Raymond M. Kristiansen, Brittany Shoot, Bekah Havens, Cheryl Cole, Gena Hackett, Juan Falla, Richard Hall, Susan Pitman, Ryanne Hodson, Rupert Howe, Richard BF, Mary Matthews, Adam Quirk   |Personal |
 |    Sam Reinsew, Mica Scalin, David Howell, Adam Quirk, Brittany Shoot, Andreas Haugstrup Pedersen, Daniel Liss, Jay Dedman, Jennifer Proctor, Markus Sandy, Loiez Deniel, Charlene Rule, Paris Marashi, Bekah Havens   | Art  |   
-|  Andreas Haugstrup Pedersen,, Erin Nealey, Jay Dedman, Jen Gouvea, Juan Falla, Mary Matthews, Richard BF, Charlene Rule, Gena Hackett, Paris Marashi  |   Everyday life   | 
+|  Andreas Haugstrup Pedersen, Erin Nealey, Jay Dedman, Jen Gouvea, Juan Falla, Mary Matthews, Richard BF, Charlene Rule, Gena Hackett, Paris Marashi  |   Everyday life   | 
 | Mica Scalin, Jen Gouvea, Gromik Nicholas |   Documentary   | 
 | Erik Nelson, Enric Teller, Juan Falla |   Internet TV   | 
 | Adam Quirk, Casey McKinnon |  Comedy    |    
@@ -314,7 +312,7 @@ don’t want to define it. It’s like writing’. Indeed, Erik Nelson
 explained he ‘intentionally attempts to avoid getting pinned into
 something that is easily describable’ and Kristiansen told me he tried
 to ‘avoid the boxes, putting my work into this or that narrative
-tradition’. This resistance to being ‘put in a box’ was echoed by Markus
+tradition’. This resistance to being ‘put in a box’ was further elaborated by Markus
 Sandy, who told me that ‘the quest to define videoblogging has been
 going on since it started and it’s the videos themselves that define it,
 not people, not critics, academics or anyone else. Just the videos. And
@@ -359,7 +357,7 @@ argued that as ‘a private technique, photography manufactures private
 images of private life . . . Apart from a tiny minority of aesthetes,
 photographers see the recording of family life as the primary function
 of photography’.[^07chapter6_21] This is echoed from the videobloggers such as Erin
-Nealey who said comments that her videoblog explores ‘moments from our
+Nealey who said that her videoblog explores ‘moments from our
 family life and I like to think of them as a video scrapbook of our
 memories and times together. This will be something I’m sure I will
 cherish in years to come (and hopefully my children will too!)”.
@@ -425,7 +423,7 @@ In contemporary society, we tend to think of user-generated media as
 being produced ‘on-the-go’. New technologies such as smartphones and
 software platforms such as Snapchat and Instagram make mobile media
 engagement through video easy and quick. It is important to remember
-that the practices we now take for granted were once slow meticulous,
+that the practices we now take for granted were once slow, meticulous,
 negotiated and invented processes that took considerable time to
 produce. These practices – now at the tip of our fingers – required a
 different kind of labour and commitment. The technical equipment and
@@ -485,9 +483,9 @@ on the same desk and the same computer’. The fact that Haugstrup
 Pedersen (at the time of the interview) was a student and working
 freelance perhaps explains this feeling of living in one room from where
 everything necessarily needs to be done, but he was not the only
-videoblogger describing this to me. Adam, a self-employed 28 year old
+videoblogger describing this to me. Quirk, a self-employed 28 year old
 from New York, stated that ‘my bedroom doubles as my office’, and
-Brittany Shoot, 24 from Boston, explained; ‘my desk is in my room, which
+Brittany Shoot, 24, from Boston, explained; ‘my desk is in my room, which
 sort of doubles as my office at home’. Jennifer Proctor, a 33 year old
 professor of arts, told me she, too, works from ‘a converted bedroom’.
 Amongst those videobloggers who self-identified as ‘artistic’, the
@@ -687,9 +685,9 @@ videoblogging was that the process took a long time. In general, the
 editing was by far the most laborious part of the creation of
 videoblogs, with recording mostly completed in around an hour and
 uploading generally completed within 15 minutes. With upload times being
-fairly slow, creating shorter videos (no more than 5 minutes in length
+fairly slow, creating shorter videos, no more than 5 minutes in length
 and compressed to as small a file as possible made a lot of sense
-technically). Jennifer Proctor told me she makes videos, ‘really
+technically. Jennifer Proctor told me she makes videos, ‘really
 randomly. I have no schedule. I usually take 1-6 months recording
 moments, and then actually sit down and put them together. I really see
 it like making a photography book.’ Similarly, when I pressed on whether
@@ -705,8 +703,8 @@ the mundane...special.’
 
 Amongst those self-identifying as ‘artistic’ videobloggers, there was a
 clear trend towards working at night. ‘I reserve the hours 9:00PM-3:00AM
-for video work, after the kids are put down for the night,’ Erik
-revealed. Adam was convinced his ‘best work happens between the hours of
+for video work, after the kids are put down for the night,’ Nelson
+revealed. Quirk was convinced his ‘best work happens between the hours of
 9pm and 4am.’ Equally, Loiez Deniel, who defines videoblogging as a form
 of poetry, said he works ‘during the night generally.’ For some, like
 Richard BF, working at night wasn’t a necessity, i.e. to work around
@@ -743,7 +741,7 @@ at their computers,’ she stated. ‘Every now and then, I’ll throw a
 longer video in there that maybe I didn’t create specifically for the
 videoblog. But generally if I’m creating something that is especially
 for my site, I will try and keep it under 5 mins.’ In comparison,
-although his videos tended to be within a certain range, (mostly between
+although his videos tended to be within the same range, (mostly between
 1 and 5 minutes) Howell couldn’t (or wouldn’t) give me a reason, ‘no
 rhyme or reason to the length. I am currently trying to make them
 shorter than 1 minute and tell a longer more complex story. It doesn’t
@@ -757,11 +755,10 @@ look forward to making them and wish I could do it all the time’.
 This difference in terms of gender and the time and space available are
 reflective of external pressures such as family or domestic labour, so
 for Nealey, consideration for kids, family and the everyday demands of
-being a mother came first. Nealey’s notions of videoblogging are shaped
-by these external (or rather, domestic) demands on her time. She knows
-exactly how long she has to videoblog, and exactly when she can take the
-time to do so, which are determined by the extent of the domestic labour
-that shapes her videoblogging practice.
+being a mother came first. Nealey’s notions of videoblogging were shaped
+by these external (or rather, domestic) demands on her time. She knew
+exactly how long she had to videoblog, and exactly when she could take the
+time to do so.
 
 A few of the ‘everyday life videobloggers’ have had periods of reduced
 videoblogging and even complete withdrawal from the ‘vlogosphere’.
@@ -774,7 +771,7 @@ eating breakfast. I might make a movie after breakfast. I might spend an
 evening after work talking with other videobloggers on AIM or Skype.
 Especially between October 05 and June 06 I spent a LOT of time…
 videoblogging’. Others showed a pragmatic approach to videoblogging.
-Jennifer Proctor maintains her own personal site where she posts ‘short
+Jennifer Proctor maintained her own personal site where she posted ‘short
 experimental non-fiction videos’. She worked full time as a professor at
 a university in America and tried to ‘fit my videos in when I can.’ Her
 attitude, similar to Mica Scalin’s, is that videoblogging is an organic
@@ -817,7 +814,7 @@ done with a low-key approach to it, could really change how we
 communicate.’
 
 Hall, a university professor of information science and technology and
-‘early adopter’ of videoblogging, told me he prefers videoblogging to
+‘early adopter’ of videoblogging, told me he preferred videoblogging to
 his ‘real’ work. With some irony (he is an academic) he told me that
 ‘... many more people have watched my most popular videos, than have
 read my most prestigious journal publication’. Hall described
@@ -850,7 +847,7 @@ videoblog and related technologies, email lists and video artifacts. I
 now turn to the final chapter in the book to bring many of these strands
 together.
 
-[^07chapter6_1]: Manuel De Certeau, *The Practice of Everyday Life: Living and
+[^07chapter6_1]: Michel De Certeau, *The Practice of Everyday Life: Living and
     cooking,* (Trans. Steven Rendall), Berkeley and Los Angeles:
     University of California Press, 1984, p. 105.
 
@@ -878,10 +875,6 @@ together.
 [^07chapter6_8]: Zimmermann, *Reel Families*, p. xiv.
 
 [^07chapter6_9]: Couldry, ‘Theorising Media as Practice’, p. 129.
-
-[^07chapter6_10]: The use of quotation marks here is not meant ironically, or as a
-    comment on informants self definition, but rather to signal that the
-    text is drawn from the interviews and email corpus.
 
 [^07chapter6_11]: Karina Hof, ‘Something you can actually pick up: Scrapbooking as
     a form and forum of cultural citizenship’, E*uropean Journal of
@@ -940,7 +933,7 @@ together.
     a virtual ethnography. I didn’t want to ask the participants to send
     me photos of their home, as this may have seemed intrusive, which is
     why I asked them to describe it instead. However, two of the
-    informants did in fact send me photographs, whereas two others
+    informants did in fact send me photographs, two others
     referred me to photos on their Flickr accounts in which their
     offices were depicted.
 

@@ -243,7 +243,7 @@ Institute for Networked Cultures, 2008.
 
 Dawson, Jonathan. ‘Dziga Vertov’, *Senses of Cinema,* issue 23 (2003).
 
-De Certeau, Manuel. *The Practice of Everyday Life: Living and cooking,*
+De Certeau, Michel. *The Practice of Everyday Life: Living and cooking,*
 (Trans. Steven Rendall), Berkeley and Los Angeles: University of
 California Press, 1984.
 
@@ -798,10 +798,10 @@ Coppola, Francis Ford. *Hearts of Darkness: A Filmmaker’s Apocalypse,*
 Barh, F., Hickenlooper, G. and Coppola, E., (Dir) USA: Paramount, 1991.
 
 Falla, Juan. *Greetings*, 19 August 2005,
-http://viviendoconfallas.blogspot.co.uk/2005/08/vlog-01-our-first-vlog-nuestro-primer.html
+http://viviendoconfallas.blogspot.com/2005/08/vlog-01-our-first-vlog-nuestro-primer.html
 
 \_\_\_\_. *Sancocho*, 15 Septebmer 2006
-http://viviendoconfallas.blogspot.co.uk/2006/09/vlog-47-e33-sancocho.html
+http://viviendoconfallas.blogspot.com/2006/09/vlog-47-e33-sancocho.html
 
 Garfield, Steve. *Year of the Videoblog*, 1 January 2004,
 https://web.archive.org/web/20041231011613/http://homepage.mac.com/stevegarfield/videoblog/year\_of.html
@@ -843,7 +843,7 @@ Nealy, Erin. *Mornings*, 2006,
 https://www.youtube.com/watch?v=db4TaJ1xExE&list=PLXembWNMLs6BMZxSETpnhvILAre4uOEKl&index=24
 
 \_\_\_\_\_. *Mom’s Brag Vlog,* accessed 5 December 2017 from
-http://nealey.blogspot.co.uk
+http://nealey.blogspot.com
 
 Quirk, Adam. *video is fun of this computer website!*, 6 September 2006,
 https://www.youtube.com/watch?v=2DvHIxV2oQ0

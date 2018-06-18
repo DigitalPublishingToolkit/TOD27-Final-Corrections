@@ -1,7 +1,7 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id:
+P-id: TOD
+A-id: 27
 Type: article
 Book-type: anthology
 Anthology item: article
@@ -18,33 +18,37 @@ Rights: CC BY-NC 4.0
 
 
 #Videoblogging Before YouTube##Trine Bjørkmann Berry
-<br>
-<br>
-<br>
-<br><br><br>
-Theory on Demand #27<br>**Videoblogging Before YouTube<br>**Trine Bjørkmann Berry<br><br>Cover design: Katja van Stiphout<br>Design and EPUB development: Rosie Underwood<br><br>Published by the Institute of Network Cultures, Amsterdam, 2018 <br><br>ISBN: 978-94-92302-22-9<br><br><br><br>**Contact <br>**Institute of Network Cultures <br>Phone: +3120 5951865 <br>Email: info@networkcultures.org <br>Web: http://www.networkcultures.org<br><br>This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0)<br><br>This publication is available through various print on demand services and freely downloadable from http://networkcultures.org/publications <br>
 
-<br>
-<br>
-<br>
-Bjørkmann Berry’s sharp, timely and endlessly fascinating book explodes a common assumption that the world of YouTube celebrities, online memes and ‘haul videos’ is horribly banal and ephemeral. At its heart is a revealing ethnographic analysis of the practices of videobloggers. This is an ambitious, richly-layered and resonant study: alive to broader aesthetic, technical, political, and cultural questions, it reveals the complexities and significance of online video cultures more generally. By charting the emergence of these media ‘hybrids’ and immersing us in their fast-mutating subcultures, Bjørkmann Berry forces us to look well beyond the obvious example of YouTube - and requires us to think afresh about the ‘newness’ of all so-called ‘new media’. Such historical sensibility is a rare commodity and should make her Videoblogging Before YouTube vital reading for anyone with an interest in contemporary media.<br>
-<br>David Hendy, Professor of Media and Cultural History, University of Sussex.<br><br>This critical history of the present, and disruptive intervention into the progress narratives of new media technologies, is crucial reading for anyone in media studies. Trine Bjørkmann Berry’s Videoblogging Before Youtube is a fascinating, in depth and meticulous cultural history of an important moment in the history of digital media. It examines the use of video in its vernacular, everyday and experimental formats in a moment of transition. The book brings together richly ethnographic material in relation to media practices of videoblogging and interrogates this authoritatively and beautifully, in relation to film and digital media theory. It shows us the value of thinking about media futures in relation to their histories, and the moments of practice, disruption and appropriation that are so important in understanding the current media landscape.<br><br>Kate O’Riordan, Professor of Digital Culture, University of Sussex, UK.
+
+Theory on Demand #27  **Videoblogging Before YouTube<br>**Trine Bjørkmann Berry  Cover design: Katja van Stiphout  Design and EPUB development: Rosie Underwood  Published by the Institute of Network Cultures, Amsterdam, 2018  ISBN: 978-94-92302-22-9  **Contact**Institute of Network Cultures  Phone: +3120 5951865  Email: info@networkcultures.org  Web: http://www.networkcultures.org  This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0)  This publication is available through various print on demand services and freely downloadable from http://networkcultures.org/publications  
+
+
+*For my parents and my children.*
+
+
+
+
+Bjørkmann Berry’s sharp, timely and endlessly fascinating book explodes a common assumption that the world of YouTube celebrities, online memes and ‘haul videos’ is horribly banal and ephemeral. At its heart is a revealing ethnographic analysis of the practices of videobloggers. This is an ambitious, richly-layered and resonant study: alive to broader aesthetic, technical, political, and cultural questions, it reveals the complexities and significance of online video cultures more generally. By charting the emergence of these media ‘hybrids’ and immersing us in their fast-mutating subcultures, Bjørkmann Berry forces us to look well beyond the obvious example of YouTube - and requires us to think afresh about the ‘newness’ of all so-called ‘new media’. Such historical sensibility is a rare commodity and should make her Videoblogging Before YouTube vital reading for anyone with an interest in contemporary media.
+
+David Hendy, Professor of Media and Cultural History, University of Sussex.
+
+This critical history of the present, and disruptive intervention into the progress narratives of new media technologies, is crucial reading for anyone in media studies. Trine Bjørkmann Berry’s Videoblogging Before Youtube is a fascinating, in depth and meticulous cultural history of an important moment in the history of digital media. It examines the use of video in its vernacular, everyday and experimental formats in a moment of transition. The book brings together richly ethnographic material in relation to media practices of videoblogging and interrogates this authoritatively and beautifully, in relation to film and digital media theory. It shows us the value of thinking about media futures in relation to their histories, and the moments of practice, disruption and appropriation that are so important in understanding the current media landscape.
+
+Kate O’Riordan, Professor of Digital Culture, University of Sussex, UK.
 
 Trine Bjørkmann Berry's compellingly written and highly original study of the historically located and embodied, medium-specific and cultural-technical practices of the early-adopter video blogging community eloquently fills a significant gap in previous studies of online video. Through her painstaking ethnographic, historical, aesthetic and media-archeological research she successfully argues that, in order to maintain critical understandings of the media practices and theories we observe around us today, it is essential to remember and understand the media practices of the past, even or perhaps especially those that led to ‘dead-ends’ and ‘failed’ media forms. This is an essential study that will change the ways in which we think about past, present and future online creative communities and digital platforms.
-<br><br>Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, University of London.
+
+Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, University of London.
 
 Trine Bjørkman Berry has given us a rich and illuminating narrative of the communities, aesthetics and technologies of videoblogging before YouTube - revealing it to be a site of mundane expression, cultural innovation and social hope. At a moment when the digital media imagination seems to have been captured by corporate behemoths, we need more stories like this. 
-<br><br>Jean Burgess, Professor of Digital Media and Director of Digital Media Research Centre, Queensland University of Technology, Australia. 
 
-<br><br><br>
-
+Jean Burgess, Professor of Digital Media and Director of Digital Media Research Centre, Queensland University of Technology, Australia. 
 
 
-For my parents and my children.
 
-<br><br><br>
 
-The film of tomorrow appears to me as even more personal than an
+
+>The film of tomorrow appears to me as even more personal than an
 individual and autobiographical novel, like a confession, or a diary.
 The young filmmakers will express themselves in the first person and
 will relate what has happened to them. It may be the story of their
@@ -57,7 +61,8 @@ director has. The film of tomorrow will be an act of love.
 
 – Francois Truffaut, 1957.
 
-<br><br><br>
+
+
 # Contents
 
 
