@@ -3746,7 +3746,7 @@ companies, but in many cases the companies did not understand the
 platform imaginary. This is fairly common, seen for example on Twitter,
 in the way the early users’ practices developed the @mention and hashtag
 functionality, and to which the company at first didn’t pay attention to
-because it was considered to be ‘too geeky’.[^05chapter4_1] Equally, a set of norms
+because it was considered to be ‘too geeky’. Equally, a set of norms
 developed quite quickly around videoblogging and a number of developers
 and companies attempted to build software around these emerging
 practices. Similarly, the early Twitter platform had very little
@@ -3826,7 +3826,7 @@ these kinds of platforms.[^05chapter4_4]
 
 From a purely screenic perspective, a videoblog is a blog that uses
 video as its main form of expression. The videobloggers used a variety
-of blogging software, most notable Blogger, although many converted to
+of blogging software, most notably Blogger, although many converted to
 Wordpress as that platform grew in popularity.[^05chapter4_5] Blogs settled into a
 particular design in the early 2000s, where the sidebar contained links
 to other blogs usually related to the one being read. This was called a
@@ -3848,7 +3848,7 @@ Figure 4: Typical videoblog post
 A blog could be said to be made up of four main components. There was
 the main body of text, which would contain the most recent post at the
 top (figure 4), with subsequent posts displayed below. There was a
-sidebar, which contained the blogroll, advertising, a search bar, link
+sidebar (Figure 5), which contained the blogroll, advertising, a search bar, link
 to a profile page, subscriber button, and various other information.
 There was also an archive, which gave access to the previous posts on
 the blog, and finally, there tended to be a comment section, which
@@ -5006,15 +5006,6 @@ community remained true to its ideals even when the technology was
 clearly moving in the opposite direction. It also had certain
 consequences for the development of a videoblog aesthetic, which I
 discuss in the next chapter.
-
-[^05chapter4_1]: The early twitter platform had very little functionality for
-    sociality and was conceived as a communications channel. The very
-    active early adopter community therefore developed a new set of
-    practices, such as re-tweeting (RT), mentioning (@-mentions) and
-    hashtags (\#) to make up for the lack of technical functions. These
-    were later absorbed into code in the current system. This kind of
-    appropriation of user innovation is very common on technical
-    platforms.
 
 [^05chapter4_2]: Langlois et al, ‘Mapping Commercial Web 2.0 Worlds: Towards a New
     Critical Ontogenesis’.
