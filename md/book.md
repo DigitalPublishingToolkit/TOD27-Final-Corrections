@@ -5,7 +5,7 @@
 
 
 Theory on Demand #27  
-**Videoblogging Before YouTube<br>**
+**Videoblogging Before YouTube**
 Trine Bjørkmann Berry  
 
 
@@ -45,7 +45,6 @@ Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, Univers
 Bjørkmann Berry’s sharp, timely and endlessly fascinating book explodes a common assumption that the world of YouTube celebrities, online memes and ‘haul videos’ is horribly banal and ephemeral. At its heart is a revealing ethnographic analysis of the practices of videobloggers. This is an ambitious, richly-layered and resonant study: alive to broader aesthetic, technical, political, and cultural questions, it reveals the complexities and significance of online video cultures more generally. By charting the emergence of these media ‘hybrids’ and immersing us in their fast-mutating subcultures, Bjørkmann Berry forces us to look well beyond the obvious example of YouTube - and requires us to think afresh about the ‘newness’ of all so-called ‘new media’. Such historical sensibility is a rare commodity and should make her Videoblogging Before YouTube vital reading for anyone with an interest in contemporary media.
 
 David Hendy, Professor of Media and Cultural History, University of Sussex.
-
 
 This critical history of the present, and disruptive intervention into the progress narratives of new media technologies, is crucial reading for anyone in media studies. Trine Bjørkmann Berry’s Videoblogging Before Youtube is a fascinating, in depth and meticulous cultural history of an important moment in the history of digital media. It examines the use of video in its vernacular, everyday and experimental formats in a moment of transition. The book brings together richly ethnographic material in relation to media practices of videoblogging and interrogates this authoritatively and beautifully, in relation to film and digital media theory. It shows us the value of thinking about media futures in relation to their histories, and the moments of practice, disruption and appropriation that are so important in understanding the current media landscape.
 
