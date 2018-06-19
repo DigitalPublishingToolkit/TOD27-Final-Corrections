@@ -25,6 +25,13 @@ Theory on Demand #27  **Videoblogging Before YouTube<br>**Trine Bjørkmann Ber
 
 *For my parents and my children.*
 
+Trine Bjørkman Berry has given us a rich and illuminating narrative of the communities, aesthetics and technologies of videoblogging before YouTube - revealing it to be a site of mundane expression, cultural innovation and social hope. At a moment when the digital media imagination seems to have been captured by corporate behemoths, we need more stories like this. 
+
+Jean Burgess, Professor of Digital Media and Director of Digital Media Research Centre, Queensland University of Technology, Australia. 
+
+Trine Bjørkmann Berry's compellingly written and highly original study of the historically located and embodied, medium-specific and cultural-technical practices of the early-adopter video blogging community eloquently fills a significant gap in previous studies of online video. Through her painstaking ethnographic, historical, aesthetic and media-archeological research she successfully argues that, in order to maintain critical understandings of the media practices and theories we observe around us today, it is essential to remember and understand the media practices of the past, even or perhaps especially those that led to ‘dead-ends’ and ‘failed’ media forms. This is an essential study that will change the ways in which we think about past, present and future online creative communities and digital platforms.
+
+Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, University of London.
 
 
 
@@ -36,13 +43,8 @@ David Hendy, Professor of Media and Cultural History, University of Sussex.
 
 Kate O’Riordan, Professor of Digital Culture, University of Sussex, UK.
 
-Trine Bjørkmann Berry's compellingly written and highly original study of the historically located and embodied, medium-specific and cultural-technical practices of the early-adopter video blogging community eloquently fills a significant gap in previous studies of online video. Through her painstaking ethnographic, historical, aesthetic and media-archeological research she successfully argues that, in order to maintain critical understandings of the media practices and theories we observe around us today, it is essential to remember and understand the media practices of the past, even or perhaps especially those that led to ‘dead-ends’ and ‘failed’ media forms. This is an essential study that will change the ways in which we think about past, present and future online creative communities and digital platforms.
 
-Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, University of London.
 
-Trine Bjørkman Berry has given us a rich and illuminating narrative of the communities, aesthetics and technologies of videoblogging before YouTube - revealing it to be a site of mundane expression, cultural innovation and social hope. At a moment when the digital media imagination seems to have been captured by corporate behemoths, we need more stories like this. 
-
-Jean Burgess, Professor of Digital Media and Director of Digital Media Research Centre, Queensland University of Technology, Australia. 
 
 
 

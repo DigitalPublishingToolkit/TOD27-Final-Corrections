@@ -2,63 +2,63 @@
 
 #Videoblogging Before YouTube
 ##Trine Bjørkmann Berry
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-Theory on Demand #27<br>
+
+
+Theory on Demand #27  
 **Videoblogging Before YouTube<br>**
-Trine Bjørkmann Berry<br>
-<br>
-Cover design: Katja van Stiphout<br>
-Design and EPUB development: Rosie Underwood<br>
-<br>
-Published by the Institute of Network Cultures, Amsterdam, 2018 <br>
-<br>
-ISBN: 978-94-92302-22-9<br>
-<br>
-<br>
-<br>
-**Contact <br>**
-Institute of Network Cultures <br>
-Phone: +3120 5951865 <br>
-Email: info@networkcultures.org <br>
-Web: http://www.networkcultures.org<br>
-<br>
-This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0)<br>
-<br>
-This publication is available through various print on demand services and freely downloadable from http://networkcultures.org/publications <br>
+Trine Bjørkmann Berry  
 
-<br>
-<br>
-<br>
-Bjørkmann Berry’s sharp, timely and endlessly fascinating book explodes a common assumption that the world of YouTube celebrities, online memes and ‘haul videos’ is horribly banal and ephemeral. At its heart is a revealing ethnographic analysis of the practices of videobloggers. This is an ambitious, richly-layered and resonant study: alive to broader aesthetic, technical, political, and cultural questions, it reveals the complexities and significance of online video cultures more generally. By charting the emergence of these media ‘hybrids’ and immersing us in their fast-mutating subcultures, Bjørkmann Berry forces us to look well beyond the obvious example of YouTube - and requires us to think afresh about the ‘newness’ of all so-called ‘new media’. Such historical sensibility is a rare commodity and should make her Videoblogging Before YouTube vital reading for anyone with an interest in contemporary media.<br>
-<br>
-David Hendy, Professor of Media and Cultural History, University of Sussex.<br><br>
-This critical history of the present, and disruptive intervention into the progress narratives of new media technologies, is crucial reading for anyone in media studies. Trine Bjørkmann Berry’s Videoblogging Before Youtube is a fascinating, in depth and meticulous cultural history of an important moment in the history of digital media. It examines the use of video in its vernacular, everyday and experimental formats in a moment of transition. The book brings together richly ethnographic material in relation to media practices of videoblogging and interrogates this authoritatively and beautifully, in relation to film and digital media theory. It shows us the value of thinking about media futures in relation to their histories, and the moments of practice, disruption and appropriation that are so important in understanding the current media landscape.<br>
-<br>Kate O’Riordan, Professor of Digital Culture, University of Sussex, UK.
 
-Trine Bjørkmann Berry's compellingly written and highly original study of the historically located and embodied, medium-specific and cultural-technical practices of the early-adopter video blogging community eloquently fills a significant gap in previous studies of online video. Through her painstaking ethnographic, historical, aesthetic and media-archeological research she successfully argues that, in order to maintain critical understandings of the media practices and theories we observe around us today, it is essential to remember and understand the media practices of the past, even or perhaps especially those that led to ‘dead-ends’ and ‘failed’ media forms. This is an essential study that will change the ways in which we think about past, present and future online creative communities and digital platforms.
-<br><br>Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, University of London.
+Cover design: Katja van Stiphout  
+Design and EPUB development: Rosie Underwood  
+
+
+Published by the Institute of Network Cultures, Amsterdam, 2018  
+
+ISBN: 978-94-92302-22-9  
+
+**Contact**
+Institute of Network Cultures  
+Phone: +3120 5951865  
+Email: info@networkcultures.org  
+Web: http://www.networkcultures.org  
+
+
+This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0)  
+
+
+This publication is available through various print on demand services and freely downloadable from http://networkcultures.org/publications  
+
+
+*For my parents and my children.*
 
 Trine Bjørkman Berry has given us a rich and illuminating narrative of the communities, aesthetics and technologies of videoblogging before YouTube - revealing it to be a site of mundane expression, cultural innovation and social hope. At a moment when the digital media imagination seems to have been captured by corporate behemoths, we need more stories like this. 
-<br><br>Jean Burgess, Professor of Digital Media and Director of Digital Media Research Centre, Queensland University of Technology, Australia. 
 
-<br>
-<br>
-<br>
+Jean Burgess, Professor of Digital Media and Director of Digital Media Research Centre, Queensland University of Technology, Australia. 
+
+Trine Bjørkmann Berry's compellingly written and highly original study of the historically located and embodied, medium-specific and cultural-technical practices of the early-adopter video blogging community eloquently fills a significant gap in previous studies of online video. Through her painstaking ethnographic, historical, aesthetic and media-archeological research she successfully argues that, in order to maintain critical understandings of the media practices and theories we observe around us today, it is essential to remember and understand the media practices of the past, even or perhaps especially those that led to ‘dead-ends’ and ‘failed’ media forms. This is an essential study that will change the ways in which we think about past, present and future online creative communities and digital platforms.
+
+Catherine Grant Professor of Digital Media and Screen Studies, Birkbeck, University of London.
 
 
 
-For my parents and my children.
+Bjørkmann Berry’s sharp, timely and endlessly fascinating book explodes a common assumption that the world of YouTube celebrities, online memes and ‘haul videos’ is horribly banal and ephemeral. At its heart is a revealing ethnographic analysis of the practices of videobloggers. This is an ambitious, richly-layered and resonant study: alive to broader aesthetic, technical, political, and cultural questions, it reveals the complexities and significance of online video cultures more generally. By charting the emergence of these media ‘hybrids’ and immersing us in their fast-mutating subcultures, Bjørkmann Berry forces us to look well beyond the obvious example of YouTube - and requires us to think afresh about the ‘newness’ of all so-called ‘new media’. Such historical sensibility is a rare commodity and should make her Videoblogging Before YouTube vital reading for anyone with an interest in contemporary media.
 
-<br>
-<br>
-<br>
+David Hendy, Professor of Media and Cultural History, University of Sussex.
 
-The film of tomorrow appears to me as even more personal than an
+
+This critical history of the present, and disruptive intervention into the progress narratives of new media technologies, is crucial reading for anyone in media studies. Trine Bjørkmann Berry’s Videoblogging Before Youtube is a fascinating, in depth and meticulous cultural history of an important moment in the history of digital media. It examines the use of video in its vernacular, everyday and experimental formats in a moment of transition. The book brings together richly ethnographic material in relation to media practices of videoblogging and interrogates this authoritatively and beautifully, in relation to film and digital media theory. It shows us the value of thinking about media futures in relation to their histories, and the moments of practice, disruption and appropriation that are so important in understanding the current media landscape.
+
+Kate O’Riordan, Professor of Digital Culture, University of Sussex, UK.
+
+
+
+
+
+
+
+
+>The film of tomorrow appears to me as even more personal than an
 individual and autobiographical novel, like a confession, or a diary.
 The young filmmakers will express themselves in the first person and
 will relate what has happened to them. It may be the story of their
@@ -71,9 +71,8 @@ director has. The film of tomorrow will be an act of love.
 
 – Francois Truffaut, 1957.
 
-<br>
-<br>
-<br>
+
+
 # Contents
 
 
@@ -3843,7 +3842,7 @@ page and a profile image.
 
 ![](imgs/Figure 4.tiff)
 
-Figure 4: Typical videoblog post
+Figure 4: *Mum's Brag vlog* by Erin Nealy.
 
 A blog could be said to be made up of four main components. There was
 the main body of text, which would contain the most recent post at the
@@ -3872,7 +3871,7 @@ audience.
 
 ![](imgs/Figure 5.png)
 
-Figure 5: *Mum's Brag vlog* by Erin Nealy. Sidebar with blogroll.
+Figure 5: Typical videoblog post. Sidebar with blogroll.
 
 Videoblogs generally featured short videos, each one usually between 1-5
 minutes in duration, which could be viewed, commented on and downloaded
@@ -3909,7 +3908,7 @@ Bernard Geoghegan argues that a ‘technological a priori defines the
 scope and logic of distinct cultural formations and epistemes’.[^05chapter4_8] In
 this case, standards grew out of a number of cultural techniques that
 were shared amongst the members of the videoblogging community. As
-Adrian Miles, videoblogger, early community member and academic of
+Adrian Miles, videoblogger, early community member and academic researching
 hypertext, narrative and technical systems, explained, ‘in terms of
 codecs and picking up an earlier question about standards. I use
 \[QuickTime\] for everything because I do interactive work and it is the
@@ -4010,7 +4009,7 @@ mobile phone, using the Nokia N95 (Steve Garfield and Rupert Howe), with
 three others (Andreas Hagustrup Pedersen, Sam Reinsew and David Howell)
 explaining that they combined mobile phone with a hand-held camera.
 Casey McKinnon, who aimed to build a career from her videoblog sci-fi
-show, Galacticast, shot video on a HD digital camera. A small group shot
+show, *Galacticast*, shot video on a HD digital camera. A small group shot
 on ‘digital cameras’ (Loiez Deniel, Juan Falla, Jen Proctor, Gromik
 Nicholas and Raymond M. Kristiansen) and the rest referred to their
 recording equipment as ‘hand-held’ (Richard BF, Richard Hall, Mary
@@ -4035,8 +4034,7 @@ success within the videoblogging community. The classic videoblogging
 shot was filming yourself using your right arm stretched out in front of
 you, and pointing the camera at yourself, the kind of image that has
 become immortalised in the notion of the ‘selfie’ today. The Xacti
-allowed you to flip the viewfinder towards oneself, which meant it was
-easy to film. Importantly, the Xacti was one of the first video cameras
+allowed you to flip the viewfinder towards your face, which made it easy to film yourself. Importantly, the Xacti was one of the first video cameras
 to move away from physical media. The camera relied on digital storage,
 and did not use videotape or discs, storing video on a flash memory
 card, making it easy to transfer to a computer.
@@ -4076,7 +4074,7 @@ promises of making it available for Windows, and that the links between
 the Mac and videoblogging were reinforced by the use of QuickTime.
 
 Ironically, this technical specificity wasn’t really remarked upon by
-the videobloggers, beyond a comment by Casey about the need to switch
+the videobloggers, beyond a comment by Casey McKinnon about the need to switch
 from one to another for professional reasons; ‘for the first year and a
 half, we used a PC,’ she told me. ‘However, due to the demands of our
 new HD camera we are currently making a switch over to Mac in order to
@@ -4148,7 +4146,7 @@ listening to music but watching videoblogs or videos from YouTube, etc.’
 In other words, the computer and the content found on the internet is
 increasingly, for Falla, competing with ‘traditional television’ for the
 attention of the viewer. Videobloggers were in some sense early adopters
-of digital cultural practices that have become very dominant today.
+of digital cultural practices that have become dominant today.
 Their practices signalled the merging of television and the computer
 that has later manifested itself in the form of ‘streaming’ boxes like
 the Apple TV and Fire TV.
@@ -4175,19 +4173,13 @@ The videobloggers very much lived the coming world of online video in
 their everyday practices – even if the tools were still relatively
 primitive by todays standards.
 
-![](imgs/ch4fig7.tiff)
-
-
-Figure 7: Number of emails posted to the
-videoblogging email list (June 2004 – July 2016). Screenshot taken from Yahoo.
-
 I now want to turn my attention to the textual practices of the
 videobloggers and how they used various forms of writing systems, such
 as email, to build, develop and strengthen the videoblogging community.
 In the period between 2004 and 2007, the videoblogging community went
 from a small group of enthusiasts to a vibrant community of users. The
-group met online on each other blogs and videos but also through the
-Yahoo group Email list. The Yahoo group was the heart and soul of the
+group met online on each other’s blogs and videos but also through the
+Yahoo group email list. The Yahoo group was the heart and soul of the
 videoblogging community. New members were always greeted by at least a
 few members, and encouraged to share links to their blogs, RSS feeds and
 personal information. To begin with, the email list recruited mainly
@@ -4204,6 +4196,13 @@ participation’, this period was probably the most active (figure 7). In
 more recent years the list has seen months go by with only 3 or 4 posts,
 quantitatively demonstrating the way in which the videoblogging
 community had changed and slowly declined.[^05chapter4_18]
+
+![](imgs/Figure 7.tiff)
+
+
+Figure 7: Number of emails posted to the
+videoblogging email list (June 2004 – July 2016). Screenshot taken from Yahoo.
+
 
 The email list occupied a crucial position in relation to videoblogging
 and the videoblogging community. It functioned as the initial meeting
@@ -4289,7 +4288,7 @@ full as I think it gives a good flavour of the very early discussions;
 Topics such as these were a constant theme in the conversations about
 the practice of videoblogging. As previously discussed, the technologies
 available to non-professional media creators at the time were limited,
-under-developed and expensive and the opportunities that were seen to be
+under-developed and expensive, and the opportunities that were seen to be
 opening up in relation to the rise of Web 2.0 technologies gave the
 videobloggers a sense of being part of an exciting change in media.
 
@@ -4316,7 +4315,7 @@ videoblogs themselves, thus spawning a new genre of videoblogs – what
 one could call meta-videoblogs, or videoblogs about videoblogging. This
 was exemplified in 2005, when Michael Verdi, an active member of the
 group and co-founder of Freevlog, posted his seminal and hugely
-influencial; video *Vlog Anarchy*. Filmed in his home, Verdi presents
+influencial video; *Vlog Anarchy*. Filmed in his home, Verdi presents
 what can only be described as a manifesto against manifestos, a call for
 the community to stop trying to define what videoblogging is. In the
 raw, unedited piece, Verdi laments the tendency among the early adopters
@@ -4328,7 +4327,7 @@ for the Vlog Deathmatch challenge, one of many community events
 organized by the Videoblogging community. This took the form of karaoke
 which was then voted on to determine the best video.[^05chapter4_24]
 
-Although the majority of early videoblogs fell into what I categorised
+Although the majority of early videoblogs fell into what I categorise
 as ‘personal’ video, Rocketboom was one videoblog that was distinctive
 and new. Andrew Michael Baron founded Rocketboom in October 2004, and
 until it closed down in November 2013, produced short videos that
@@ -4342,13 +4341,13 @@ December, Rocketboom claimed that it cost about \$20 to produce an
 episode, yet they were able to reach an audience the same size as shows
 such as ‘Crossfire’ on CNN, a remarkable achievement. In September 2005,
 Business Week covered the faux news show in a magazine feature that the
-Internet was becoming more videocentric. Many of the members of the
-videoblogging community, including Zadi Diaz, Richard Hall and Steve
-Garfield, provided ‘raw footage’ for Rocketboom but also worked to draw
-attention – and viewers – to their own sites. Rocketboom was therefore
+Internet was becoming more videocentric. Rocketboom was therefore
 one of the first videoblogs to ‘break out’ and find popularity beyond
 the videoblogging community, even being featured on American TV drama
-CSI in February 2006.
+CSI in February 2006. Many of the members of the
+videoblogging community, including Zadi Diaz, Richard Hall and Steve
+Garfield, provided ‘raw footage’ for Rocketboom which also worked to draw
+attention – and viewers – to their own sites. 
 
 A key technology in the technical constellation around videoblogging
 that helped simplified video distribution, was Feedburner. It was
@@ -4390,7 +4389,7 @@ feeds and allowed the user to play videos on the desktop. As one
 videoblogger explained, ‘the point of using an in-computer aggregator
 program like FireAnt would be the added benefit to the user that ‘new
 video (and other) posts are automatically downloaded’.[^05chapter4_29] This
-automatic downloading of new episodes made following videoblogs such
+automatic downloading of new episodes made following videoblogs much
 simpler. It also created a helpful abstraction from the inherent
 complexity and messiness of web-links and surfing between blogs. Users
 would be able to identify new videos and keeping up with episodes would
@@ -4453,9 +4452,7 @@ feeling it was part of the community.[^05chapter4_30]
 
 The functionality of FireAnt was described by one of the founders,
 Joshua Kinberg, in an email in July 2005. He explained that FireAnt
-allowed the user to
-
-‘subscribe to any RSS 2.0 feed, with Bit Torrent built in.’[^05chapter4_31] It
+allowed the user to ‘subscribe to any RSS 2.0 feed, with Bit Torrent built in.’[^05chapter4_31] It
 could playback most media formats, and sync media to iPods or Sony
 Playstations. FireAnt allowed you to organise your content with tags,
 had built in Yahoo video search and its ‘integrated directory of
@@ -4637,7 +4634,7 @@ user experience, and not necessarily for the better.
 Video hosting became an integral part of the extended videoblogging
 platform. Initially, the videobloggers hosted their own content on their
 own sites – leading to a range of problems, for example, Howe’s mention
-in the New York Times as discussed earlier in the book. To work around
+in *The New York Time*s as discussed earlier in the book. To work around
 these problems, the community worked closely with a number of sites and
 developers to solve them. Among them, OurMedia.org, founded by J.D.
 Lasica and Marc Canter in 2005 acted as a front-end for Archive.org,
@@ -4698,7 +4695,7 @@ content they might want to keep before Blip deleted it, a startling turn
 around for a company that had worked hard in its early days to make
 connections with the videoblogging community.
 
-But from the start, Blip was very secretive about its business
+But from the start, Blip had been very secretive about its business
 decisions. They soon stopped engaging in community conversations on the
 email list. Dedman told me;
 
@@ -4746,13 +4743,13 @@ few responses and, as had become increasingly common within the
 community at that time, they were mostly about technical issues. The
 initial reaction from the community concerned formats, and particularly
 YouTube’s decision to convert video submissions to a flash video file, a
-proprietary web format owned by Adobe.[^05chapter4_44]
+proprietary web format owned by Adobe.
 
 The reactions ranged from a disappointed ‘everyone is doing Flash...’ to
 the more dismissive; ‘Flash gives me hives’. Flash was a mediocre
 format, providing an inferior image quality. As Cubitt points out, ‘like
 VHS, and so many other victors of previous format wars, they are only
-good-enough’. YouTube’s decision to use interlaced streaming meant that
+good-enough’.[^05chapter4_44] YouTube’s decision to use interlaced streaming meant that
 the videobloggers – who valued quality above anything else – were
 unimpressed. For the average user, however, who just wanted to watch the
 latest viral video, YouTube was ideal. In an episode of the podcast *The
@@ -4818,7 +4815,7 @@ were mainly related to technical issues, such as quality of videos,
 formats and codecs. But there were also concerns about ownership and
 branding, as well as being able to retrieve content back out of YouTube
 after uploading it. Despite being lauded as one of the most successful
-web 2.0 start ups, Uricchio argues that, ‘while YouTube’s economic model
+Web 2.0 start ups, Uricchio argues that, ‘while YouTube’s economic model
 is indeed predicated on participation, it fails the ‘2.0 test’ since
 users may only upload — and not download — its videos’.[^05chapter4_50] The ability
 to download videos might not seem like a deal breaker for the average
@@ -4848,8 +4845,7 @@ things and care’ – and so the apparent problem of rapid changes in
 codecs and format ‘isn’t an issue’ for them. Here we can see the
 construction of a discourse that places YouTube on one hand and the
 videobloggers on the other in terms of different cultural practices
-distinctive to each. YouTube’s focus on content that attracts audiences,
-with video that is low quality (in technical as well as cultural terms),
+distinctive to each. YouTube’s focus on content that is low quality (in technical as well as cultural terms),
 in order to attract audiences, advertisers and corporate sponsorships,
 whereas the ‘craft’ of the videoblogging community lay in being able to
 negotiate a complex technical constellation and produce a distinctive,
@@ -4883,7 +4879,7 @@ the rejection by the videobloggers of the low technical and aesthetic
 standards associated with posting videos to YouTube becomes part of the
 very definition of the high technical and aesthetic quality that make
 videoblogging somehow *better*, or more ‘noble’. It also cemented
-YouTube as videoblogging’s other.
+YouTube as videoblogging’s *other*.
 
 As with most creative communities, the videobloggers organised a number
 of events over the years. These aimed to develop the community
@@ -4906,7 +4902,7 @@ the first independent video festival for internet film, held over a
 weekend at the American Film Institute in Los Angeles. The event
 combined speakers and presentations, workshops and social gatherings
 with screenings of videoblogs, all curated by members of the
-videoblogging community. The Vloggies were the videoblogging community’s
+videoblogging community. The *Vloggies* were the videoblogging community’s
 award show, which was first held in San Francisco in 2006. PodTech
 produced the event, but it was the brainchild of Irina Slutsky and many
 of the videobloggers were both nominated and won awards at the event
@@ -4952,7 +4948,7 @@ someone who had quite an idealistic view of videoblogging, told me he
 ‘never quite understood what happened’ with FireAnt. When the project
 failed to raise money, it became apparent that FireAnt was in financial
 trouble. Perhaps the different attitudes was part of the problem, but it
-didn’t seem to Jay as if anything was happening to further the appeal of
+didn’t seem to Jay Dedman as if anything was happening to further the appeal of
 FireAnt. ‘Again, I didn’t think we’d get rich, but I didn’t have a
 better plan. Ryanne \[Hodson\] and I were busy putting on Vloggercon SF,
 *Pixelodeon* in LA, and having fun in the community. My main job in
@@ -5019,27 +5015,26 @@ discuss in the next chapter.
     2009, p. 109-110.
 
 [^05chapter4_5]: Possibly this was because Wordpress was open source, whereas
-    Blogger was a proprietary piece of software. Blogger was the first
+    Blogger was proprietary software. Blogger was the first
     truly mainstream blogging software, allowing anyone to create and
     maintain a blog without needing any prior technical knowledge of web
     design, programming or coding Infinitely customizable, Blogger grew
     exponentially after being purchased by Google in 2003.
 
-[^05chapter4_6]: In the case of Veoh, it was founded by Dmitry Shapiro in September
-    2005, Veoh combined user-generated content with professionally
-    produced network content from among others CBS, ABC and ESPN. Veoh
-    transcoded user-generated content into Flash and was not considered
-    a good option within the videoblogging community. Veoh filed for
-    bankruptcy in February 2010, before being acquired by Israeli
-    start-up company Qlipso in April 2010. I discuss Vimeo in more
-    detail later in the chapter. There are technical solutions to this
+[^05chapter4_6]: There are technical solutions to this
     today of course, sites such as Tubesock and KeepVid are some
     examples of clients that allow you to circumvent this. Tubesock
     (http://stinkbot.com) and Keepvid (https://keepvid.com) were both
     designed to download and convert content from YouTube or other
     flash-based video sites into other formats. They were especially
     popular with people who liked to view their video content on devices
-    such as the video iPod. These sites are still active today.
+    such as the video iPod. These sites are still active today. In the case of Veoh, it was founded by Dmitry Shapiro in September
+    2005, Veoh combined user-generated content with professionally
+    produced network content from among others CBS, ABC and ESPN. Veoh
+    transcoded user-generated content into Flash and was not considered
+    a good option within the videoblogging community. Veoh filed for
+    bankruptcy in February 2010, before being acquired by Israeli
+    start-up company Qlipso in April 2010.
 
 [^05chapter4_7]: A condition of possibility for knowledge in the Foucauldian sense.
     See Jussi Parikka, ‘Friedrich Kittler - a media anthropology without
@@ -5106,10 +5101,10 @@ discuss in the next chapter.
 
 [^05chapter4_24]: Vlog Deathmatch (http://vlogdeathmatch.blogspot.co.uk) Howe’s
     entry *Anarchy in the UK* was built shot, edited and uploaded on his
-    Nokia N96, as he travelled around London (showing sites such as
-    Parliament, Big Ben, Downing Street and the London underground, all
+    Nokia N96, as he travelled around London showing sites such as
+    Parliament, Big Ben, Downing Street and the London underground,
     while miming into his phone. With its stripped back production
-    values and low quality sound and image, paid homage to Verdi’s
+    values and low quality sound and image, it paid homage to Verdi’s
     argument that videoblogging “can be as punk rock as we want it to
     be”.
 
@@ -5119,8 +5114,7 @@ discuss in the next chapter.
 
 [^05chapter4_26]: Just like the ‘blogosphere’ became a collective term used when
     talking about the network of people who write and read blogs, the
-    vlogosphere became a term for the collective consideration of anyone
-    involved in the practice of videoblogging, be it producing or simple
+    vlogosphere became a term for the collective practice of videoblogging, be it producing or simple
     consuming the videoblogs.
 
 [^05chapter4_27]: Joshua Kinberg, Email to Videoblogging List 12 July 2005,
@@ -5256,7 +5250,7 @@ discuss in the next chapter.
     November 2017.
 
 [^05chapter4_56]: There was a big contention in the community in 2007 over
-    trademark rights to the ‘Vloggies’ brand, when PodTech claimed
+    trademark rights to the ‘Vloggies’ brand when PodTech claimed
     ownership over it and subsequently fired Irina Slutsky. Whether the
     Vloggies should ‘belong to the community’ or be owned by a company
     were hotly discussed on the videoblogging list (see the full
@@ -5749,7 +5743,7 @@ and symbolic reasonings for focusing on the face in videoblogs, thus
 performing a kind of medium analysis of his own work. He began by giving
 a symbolic reasoning for his ‘directorial choices’ telling me that he
 focuses mainly ‘on the face. That’s how people watching the video
-‘connect’ with it. Because as a viewer we feel compelled and we can
+"connect" with it. Because as a viewer we feel compelled and we can
 understand and accept (or deny) a person’s reaction. And the best way is
 either by an action of the person, like in a movie; or by the person’s
 face.’ Falla then moves on to discussing how the medium of videoblogging
@@ -5792,7 +5786,7 @@ heart, yes, they are personal.  But do I show my face as much, talk
 about my life, how I feel?  No.  I let people draw assumptions from
 whatever I make’. Shoot talked at length about how she ‘used to show
 emotion when I talked to the camera, but it backfired when I got too
-angry on film’, and this effected her relationship with the
+angry on film’, and this affected her relationship with the
 videoblogging community. Equally, Daniel Liss never showed his face in
 his videos. Liss and Shoot’s positions echoes Patricia Lange’s notion of
 a ‘privately public’ videoblogger. [^06chapter5_22] Lange argues that despite
@@ -5972,7 +5966,7 @@ viewer a tour of her personal space highlighting the sense of intimacy.
 In her work, Hodson also explores the idea of videoblogging as a new
 platform for expression and free speech, a medium in which videobloggers
 express themselves – ‘I am so excited about videoblogging. Because I can
-say whatever I want and the FCC can’t do BLEEP’. This freedom of
+say whatever I want and the FCC can’t do [BLEEP]’. This freedom of
 expression, both artistic and political, was very important to her;
 ‘it’s like complete freedom, I post whatever I feel like. It’s like an
 open diary to the world.’ At the time, Hodson was working in television,
@@ -6146,7 +6140,7 @@ of young independent directors. Rather… we are in the midst of a new
 aesthetic positioning – one which, as usual, is picked up by the
 antennae of artists before becoming obvious to all… these are all
 conscious aesthetic choices, which have nothing to do with finances
-available to the production’. [^06chapter5_34]
+available to the production’.[^06chapter5_34]
 
 This can be seen as a deliberate stylistic choice, as much as a result
 of the constraints on the videoblogger due to equipment and bandwidth,
@@ -6161,8 +6155,8 @@ or network sitcom. Just as punk is opposed to the polish of pop, Web
 video is opposed to the gloss and sheen of Hollywood entertainment. That
 sense of opposition is the spirit and ethos of DIY production whether in
 music, publishing, or audio-visual media. As Frank describes it,
-videoblogging is ‘a cheap and fast alternative to making media — that
-looks cheap and fast’.[^06chapter5_35]
+videoblogging is "a cheap and fast alternative to making media — that
+looks cheap and fast"’.[^06chapter5_35]
 
 Throughout his work, Liss plays with form and narrative. He skips back
 and forth in time, for example, a sheet of paper is initially shown with
@@ -6172,7 +6166,7 @@ For example, the image of the New York building is shown twice before he
 uses it a third time with an inverted image of a hand layered over it.
 He manipulates the image by using double exposure on the images of the
 hand and the building, to highlight the mediated nature of videoblogs,
-pointing out that even when someone simply shoots-and-posts their videos
+pointing out that even when someone simply shoots-and-posts, their videos
 are still mediated. ‘To pretend that’s something unmediated in itself is
 I think a little naïve’, he explains. He also manipulates the sound,
 bringing in music at dramatic moments in the narrative, to create
@@ -6218,7 +6212,7 @@ Jameson’s Bonaventure Hotel. The cues for recognizing individuality via
 the ear become something other than the timbre of the voice: the melody,
 the beat, or a catch phrase, for instance’.[^06chapter5_36] Liss’ voice certainly
 contains some of these qualities. Contrary to the visuality of his
-videos (‘images are *out there*, on the screen, and framed by it’, the
+videos ‘images are *out there*, on the screen, and framed by it’, the
 sonic - and particularly his voice – ‘does not appear to stand before us
 but rather to come to us or at us’.[^06chapter5_37] His narration is melodic and
 rhythmic, clearly scripted, and yet, because it is repeated over the
@@ -6226,8 +6220,7 @@ narrative arc of his entire body of work, becomes synonymous with the
 videoblog itself. I would probably not recognise Liss if I walked past
 him on the street, but I would have no trouble picking his voice out.
 His voice is part of what makes his videoblogs unique, which emphasises
-that videoblogs are not just visual objects, but aural too in a very
-important aspect.
+that videoblogs are not just visual objects, but aural.
 
 Newman argues that videoblogging ‘might usefully be considered as
 self-taught art, a term art historians use to refer to artworks by
@@ -6236,7 +6229,7 @@ connection to the mainstream traditions of Western art history.”’ The
 self-taught artist is someone who lacks the skills considered the
 standard within a particular art world and ‘connotes an absence of rules
 for the artist to follow, a lack of familiarity with ‘proper’ ways of
-solving certain aesthetic problems.’[^06chapter5_38] So although he had no formal
+solving certain aesthetic problems.’[^06chapter5_38] Although he had no formal
 training, Liss was clearly familiar with both cinematic rules and how to
 apply them to develop his work and increase viewership. For example, at
 the end of *Theory: Practice*, Liss uses denouement to conclude his
@@ -6284,12 +6277,12 @@ videoblogging in that it exists within a social context that is not
 explicitly consumerist. Luers recognises that although the technologies
 available to the videobloggers (be it ‘RSS feeds, video compression
 codecs, and tagging systems’) can be seen as technical extension of
-advertising strategies, aimed at allowing the videblogger maximum
+advertising strategies, aimed at allowing the videoblogger maximum
 exposure and reach of her videoblogs, ‘rather than compete for attention
 in the marketplace, most vloggers look to their peers for feedback and
 conversation. For perhaps the first time, we have a somewhat organized
 public arena for a cinema without show business’. It might be argued
-that people videoblog to make their life cinematic prompting the
+that people videoblog to make their life cinematic, prompting the
 question of why dramatic conflict is a necessary filter for
 understanding the stories we occupy in our everyday? Further, he asks
 what we are missing in our private lives that can be rediscovered and
@@ -6309,7 +6302,7 @@ to change the experience of watching dramatically.
 
 To explore these ideas I look at the videoblogs of Juan Falla and his
 wife Ximena, who made videoblogs because they wanted to stay in touch
-with friends and family. [^06chapter5_41] Falla described his videoblog as a
+with friends and family.[^06chapter5_41] Falla described his videoblog as a
 reality show of their life in Los Angeles. Originally from Colombia,
 Falla told me they ‘wanted to show \[their\] families how \[their\] life
 is \[in LA\]… So we began shooting our selves doing normal things like,
@@ -6333,7 +6326,7 @@ instead of having a half hour video, we have a 3 or 5 minute “really
 nice video”’. Here, it would seem that Falla’s decision to make
 videoblogs of a certain length, which other videobloggers argued were
 made for technical reasons, such as restrictions on bandwidth, were in
-fact made for deliberate, stylistic, reasons.[^06chapter5_42] Later, he elaborated
+fact made for deliberate, stylistic, reasons. Later, he elaborated
 on this, telling me that ‘between you and me, I prefer the short video,
 instead of a long one. Our attention span is getting shorter every year,
 we want things to happen fast. So having short videos, things begin and
@@ -6435,8 +6428,8 @@ videoblogging at the time, explaining,
 Juan and Ximena in their kitchen, making Sancocho, a Colombian dish. It
 was first uploaded on 15th September 2006, so we can see that in the
 year after uploading *Greetings* (4:07min, 320x240), Falla was already
-improving their production values and experimenting with the quality of
-their videos. In *Sancocho*, Falla films using a combination of the PoV
+improving his production values and experimenting with the quality of
+his videos. In *Sancocho*, Falla films using a combination of the PoV
 shot (‘everything we show is based on our point of view’) and the
 talking head shot. Here, he holds the camera stretched out and slightly
 up above himself, in order to capture not just his face but his wife in
@@ -6503,7 +6496,7 @@ fact it is rarely more than 3 minutes long, with no necessary links to
 other videos, users or narratives, indicates that the videoblog is only
 meant to be viewed in gaps in the viewers’ daily schedule. Where Newman
 sees Web video as an ‘in-between’, I argue that actually the
-videoblogging community was always very much an invested network. The
+videoblogging community was always very much *an invested network*. The
 participants actively sought out other videoblogs to watch, creating
 meaning for its members through the very shared context in which it
 existed, the collective experiences of making and watching videoblogs
@@ -6569,7 +6562,7 @@ and start to look at what the videobloggers do.
    https://groups.yahoo.com/neo/groups/videoblogging/conversations/topics/79534.
 
 [^06chapter5_9]: Some videos, especially those in a flash format, couldn’t be
-    downloaded at the time, thus, some videoblogs were never archived.
+    downloaded at the time, so, some videoblogs were never archived.
 
 [^06chapter5_10]: Newman, ‘Ze Frank and the poetics of Web video’, see also Vito
     Campanelli, ‘The DivX Experience’, in Geert Lovink and Sabine
@@ -6597,14 +6590,14 @@ and start to look at what the videobloggers do.
 [^06chapter5_16]: Aymar Jean Christian, ‘Joe Swanberg, Intimacy, and the Digital
     Aesthetic’, *Cinema Journal,* 50. 4, Summer, (2011) pp. 123.
 
-[^06chapter5_17]: Scotish comedian Brian Limond, who is behind the popular *Limmy’s
+[^06chapter5_17]: Scottish comedian Brian Limond, who is behind the popular *Limmy’s
     Show* on BBC Scotland, adapted similar elements in his work. The
-    show featues many of the aesthetics, structures, and technical
+    show features many of the aesthetics, structures, and technical
     choices and limitations seen in the work of the videoblogging
-    community. It is worth noting that Limond started his carreer
+    community. It is worth noting that Limond started his career
     posting videos to Vine and YouTube, and returned to YouTube once his
     show was cancelled. Interestingly, his half hour special from 2018,
-    *Limmy’s Homemade Show*, was made self-made, using only
+    *Limmy’s Homemade Show*, was self-made, using only
     ‘videoblogging’ tools and technology.
 
 [^06chapter5_18]: Gilles Deleuze and Felix Guattari, *A Thousand Plateaus*, London:
@@ -6619,7 +6612,7 @@ and start to look at what the videobloggers do.
     mistakes in the original text, added as a deliberate critique of
     content on YouTube).
 
-[^06chapter5_20]: The Tumblr-based art project Webcam Tears features YouTube videos
+[^06chapter5_20]: The Tumblr-based art project Webcam Tears featuring YouTube videos
     of people crying is another example.
 
 [^06chapter5_21]: Christian ‘Joe Swanberg, Intimacy, and the Digital Aesthetic’, p.
@@ -6663,7 +6656,7 @@ and start to look at what the videobloggers do.
     from the videoblogging film festival *Pixelodeon*, he either shied
     away from being filmed, or requested that his face be blurred out.
     Amusingly, within the community, a cut out photo of the American
-    Actor Yul Brynner was often pasted over Liss’ face in photos as a
+    actor Yul Brynner was often pasted over Liss’ face in photos as a
     joke.
 
 [^06chapter5_34]: Campanelli**, ‘**The DivX Experience’, p. 52.
@@ -6689,12 +6682,8 @@ and start to look at what the videobloggers do.
 
 [^06chapter5_40]: Luers, ‘Cinema Without Show Business: a Poetics of Vlogging’.
 
-[^06chapter5_41]: Although Falla and Ximena made their videos together, Falla was
-    the main videoblogger who did most of the shooting and editing. It
-    was also him I interviewed, so unless indicated otherwise, it is his
+[^06chapter5_41]: Although Falla and Ximena made their videos together, Falla did most of the shooting and editing, so unless indicated otherwise, it is his
     voice that is heard here.
-
-[^06chapter5_42]: Newman,‘ Ze Frank and the poetics of Web video’.
 
 [^06chapter5_43]: Newman, ‘Ze Frank and the poetics of Web video’. This style was
     adapted by Amanga Congdon, anchor of the internet news videoblog
@@ -6712,8 +6701,8 @@ and start to look at what the videobloggers do.
 
 [^06chapter5_47]: Newman, ‘Ze Frank and the poetics of Web video’.
 
-[^06chapter5_48]: Newman’s point is well observed in relateion to recent videos on
-    Instagram, however, where videos are often accompanied by subtitles,
+[^06chapter5_48]: Newman’s point is well observed in relation to recent videos on
+    Instagram where videos are often accompanied by subtitles
     making it possible to watch them with the audio turned off. This
     indicates that the videos are being watched (or specifically
     designed to be viewed) in (social) situations where silence is
@@ -6742,11 +6731,11 @@ it ‘reaches beyond individual experience and action towards the
 
 In this chapter, I want to use some of de Certeau’s insights to engage
 with videoblogging as a media practice. I seek to explore the embodied
-practices the videobloggers perform routinely. The focus on media as
-practice has intensified in scholarly writing in recent years[^07chapter6_3] but
+practices the videobloggers performed routinely. The focus on media as
+practice has intensified in scholarly writing in recent years but
 here I am also drawing particular attention to Nick Couldry’s notion of
 media as practice[^07chapter6_4] as a starting point for thinking about what
-videobloggers do with media. The emphasis on practice in the study of
+videobloggers do with media.[^07chapter6_3] The emphasis on practice in the study of
 media does not start with Couldry, nor is it unique to the study of
 media, but I think Couldry’s work is very helpful for thinking through
 the way in which videobloggers’ practices were organised and actualised.
@@ -6766,7 +6755,7 @@ discourse.[^07chapter6_6] Here, practices are understood as routine activities t
 are unconscious and ‘un-thought’ in character, as opposed to consciously
 chosen actions.[^07chapter6_7] Discourse is understood not only as the things
 people say, but the system of meanings that makes it possible for them
-to say anything in the first place. Se we can examine *videoblogging as
+to say anything in the first place. So we can examine *videoblogging as
 practice* as un-thought in character and how the practice of
 videoblogging is part of the everyday life of the videoblogger. By
 observing their practices, and by listening to how they articulate their
@@ -6835,8 +6824,7 @@ As previously discussed, my analysis involved a formal coding of the
 videos submitted, as well as a discursive analysis of the interviews.
 Despite many self-defining as artistic or experimental
 film/video-makers, in terms of a more formal theory of aesthetics, most
-fit in a category of autobiographical, or personal video-making.[^07chapter6_10]
-This resonates with the idea of videoblogging as a personal practice,
+fit in a category of autobiographical, or personal video-making. This resonates with the idea of videoblogging as a personal practice,
 drawing on influences such as home-movies and scrapbooking,[^07chapter6_11] which
 also use creative and artistic tropes. Few, if any, videobloggers have
 any institutional support or links with the traditional art world,
@@ -6898,15 +6886,14 @@ emotional bonds and friendships reinforced by the intimate form of the
 videoblog. Some videoblggers even formed strong real-world relationships
 and one couple who met through videoblogging actually married.
 
-Many of my informants would say their videoblog could be considered an
-art project or a personal diary. From the very beginning, the
+From the very beginning, the
 videoblogging community showed clear resistance against creating a
 unified definition of what videoblogging was or should be. I think it is
 helpful to think about videoblogging starting as an *empty
 signifier* which helped enroll video and film makers into a shared set
 of practices and which slowly began to coalesce around practices,
 technologies and aesthetics. There were no unambiguous *types* emerging
-at the end of my interviews, and instead it was more fruitful to look
+at the end of my interviews, so instead it was more fruitful to
 focus on *how* they described their practices, as well as examining the
 videos themselves.
 
@@ -6934,7 +6921,7 @@ Colan preferred ‘short personal documentaries’.
 | :-----------------------------|:----------------------------| 
 |   Zadi Diaz, Steve Garfield, Raymond M. Kristiansen, Brittany Shoot, Bekah Havens, Cheryl Cole, Gena Hackett, Juan Falla, Richard Hall, Susan Pitman, Ryanne Hodson, Rupert Howe, Richard BF, Mary Matthews, Adam Quirk   |Personal |
 |    Sam Reinsew, Mica Scalin, David Howell, Adam Quirk, Brittany Shoot, Andreas Haugstrup Pedersen, Daniel Liss, Jay Dedman, Jennifer Proctor, Markus Sandy, Loiez Deniel, Charlene Rule, Paris Marashi, Bekah Havens   | Art  |   
-|  Andreas Haugstrup Pedersen,, Erin Nealey, Jay Dedman, Jen Gouvea, Juan Falla, Mary Matthews, Richard BF, Charlene Rule, Gena Hackett, Paris Marashi  |   Everyday life   | 
+|  Andreas Haugstrup Pedersen, Erin Nealey, Jay Dedman, Jen Gouvea, Juan Falla, Mary Matthews, Richard BF, Charlene Rule, Gena Hackett, Paris Marashi  |   Everyday life   | 
 | Mica Scalin, Jen Gouvea, Gromik Nicholas |   Documentary   | 
 | Erik Nelson, Enric Teller, Juan Falla |   Internet TV   | 
 | Adam Quirk, Casey McKinnon |  Comedy    |    
@@ -7021,7 +7008,7 @@ don’t want to define it. It’s like writing’. Indeed, Erik Nelson
 explained he ‘intentionally attempts to avoid getting pinned into
 something that is easily describable’ and Kristiansen told me he tried
 to ‘avoid the boxes, putting my work into this or that narrative
-tradition’. This resistance to being ‘put in a box’ was echoed by Markus
+tradition’. This resistance to being ‘put in a box’ was further elaborated by Markus
 Sandy, who told me that ‘the quest to define videoblogging has been
 going on since it started and it’s the videos themselves that define it,
 not people, not critics, academics or anyone else. Just the videos. And
@@ -7066,7 +7053,7 @@ argued that as ‘a private technique, photography manufactures private
 images of private life . . . Apart from a tiny minority of aesthetes,
 photographers see the recording of family life as the primary function
 of photography’.[^07chapter6_21] This is echoed from the videobloggers such as Erin
-Nealey who said comments that her videoblog explores ‘moments from our
+Nealey who said that her videoblog explores ‘moments from our
 family life and I like to think of them as a video scrapbook of our
 memories and times together. This will be something I’m sure I will
 cherish in years to come (and hopefully my children will too!)”.
@@ -7132,7 +7119,7 @@ In contemporary society, we tend to think of user-generated media as
 being produced ‘on-the-go’. New technologies such as smartphones and
 software platforms such as Snapchat and Instagram make mobile media
 engagement through video easy and quick. It is important to remember
-that the practices we now take for granted were once slow meticulous,
+that the practices we now take for granted were once slow, meticulous,
 negotiated and invented processes that took considerable time to
 produce. These practices – now at the tip of our fingers – required a
 different kind of labour and commitment. The technical equipment and
@@ -7192,9 +7179,9 @@ on the same desk and the same computer’. The fact that Haugstrup
 Pedersen (at the time of the interview) was a student and working
 freelance perhaps explains this feeling of living in one room from where
 everything necessarily needs to be done, but he was not the only
-videoblogger describing this to me. Adam, a self-employed 28 year old
+videoblogger describing this to me. Quirk, a self-employed 28 year old
 from New York, stated that ‘my bedroom doubles as my office’, and
-Brittany Shoot, 24 from Boston, explained; ‘my desk is in my room, which
+Brittany Shoot, 24, from Boston, explained; ‘my desk is in my room, which
 sort of doubles as my office at home’. Jennifer Proctor, a 33 year old
 professor of arts, told me she, too, works from ‘a converted bedroom’.
 Amongst those videobloggers who self-identified as ‘artistic’, the
@@ -7394,9 +7381,9 @@ videoblogging was that the process took a long time. In general, the
 editing was by far the most laborious part of the creation of
 videoblogs, with recording mostly completed in around an hour and
 uploading generally completed within 15 minutes. With upload times being
-fairly slow, creating shorter videos (no more than 5 minutes in length
+fairly slow, creating shorter videos, no more than 5 minutes in length
 and compressed to as small a file as possible made a lot of sense
-technically). Jennifer Proctor told me she makes videos, ‘really
+technically. Jennifer Proctor told me she makes videos, ‘really
 randomly. I have no schedule. I usually take 1-6 months recording
 moments, and then actually sit down and put them together. I really see
 it like making a photography book.’ Similarly, when I pressed on whether
@@ -7412,8 +7399,8 @@ the mundane...special.’
 
 Amongst those self-identifying as ‘artistic’ videobloggers, there was a
 clear trend towards working at night. ‘I reserve the hours 9:00PM-3:00AM
-for video work, after the kids are put down for the night,’ Erik
-revealed. Adam was convinced his ‘best work happens between the hours of
+for video work, after the kids are put down for the night,’ Nelson
+revealed. Quirk was convinced his ‘best work happens between the hours of
 9pm and 4am.’ Equally, Loiez Deniel, who defines videoblogging as a form
 of poetry, said he works ‘during the night generally.’ For some, like
 Richard BF, working at night wasn’t a necessity, i.e. to work around
@@ -7450,7 +7437,7 @@ at their computers,’ she stated. ‘Every now and then, I’ll throw a
 longer video in there that maybe I didn’t create specifically for the
 videoblog. But generally if I’m creating something that is especially
 for my site, I will try and keep it under 5 mins.’ In comparison,
-although his videos tended to be within a certain range, (mostly between
+although his videos tended to be within the same range, (mostly between
 1 and 5 minutes) Howell couldn’t (or wouldn’t) give me a reason, ‘no
 rhyme or reason to the length. I am currently trying to make them
 shorter than 1 minute and tell a longer more complex story. It doesn’t
@@ -7464,11 +7451,10 @@ look forward to making them and wish I could do it all the time’.
 This difference in terms of gender and the time and space available are
 reflective of external pressures such as family or domestic labour, so
 for Nealey, consideration for kids, family and the everyday demands of
-being a mother came first. Nealey’s notions of videoblogging are shaped
-by these external (or rather, domestic) demands on her time. She knows
-exactly how long she has to videoblog, and exactly when she can take the
-time to do so, which are determined by the extent of the domestic labour
-that shapes her videoblogging practice.
+being a mother came first. Nealey’s notions of videoblogging were shaped
+by these external (or rather, domestic) demands on her time. She knew
+exactly how long she had to videoblog, and exactly when she could take the
+time to do so.
 
 A few of the ‘everyday life videobloggers’ have had periods of reduced
 videoblogging and even complete withdrawal from the ‘vlogosphere’.
@@ -7481,7 +7467,7 @@ eating breakfast. I might make a movie after breakfast. I might spend an
 evening after work talking with other videobloggers on AIM or Skype.
 Especially between October 05 and June 06 I spent a LOT of time…
 videoblogging’. Others showed a pragmatic approach to videoblogging.
-Jennifer Proctor maintains her own personal site where she posts ‘short
+Jennifer Proctor maintained her own personal site where she posted ‘short
 experimental non-fiction videos’. She worked full time as a professor at
 a university in America and tried to ‘fit my videos in when I can.’ Her
 attitude, similar to Mica Scalin’s, is that videoblogging is an organic
@@ -7524,7 +7510,7 @@ done with a low-key approach to it, could really change how we
 communicate.’
 
 Hall, a university professor of information science and technology and
-‘early adopter’ of videoblogging, told me he prefers videoblogging to
+‘early adopter’ of videoblogging, told me he preferred videoblogging to
 his ‘real’ work. With some irony (he is an academic) he told me that
 ‘... many more people have watched my most popular videos, than have
 read my most prestigious journal publication’. Hall described
@@ -7557,7 +7543,7 @@ videoblog and related technologies, email lists and video artifacts. I
 now turn to the final chapter in the book to bring many of these strands
 together.
 
-[^07chapter6_1]: Manuel De Certeau, *The Practice of Everyday Life: Living and
+[^07chapter6_1]: Michel De Certeau, *The Practice of Everyday Life: Living and
     cooking,* (Trans. Steven Rendall), Berkeley and Los Angeles:
     University of California Press, 1984, p. 105.
 
@@ -7585,10 +7571,6 @@ together.
 [^07chapter6_8]: Zimmermann, *Reel Families*, p. xiv.
 
 [^07chapter6_9]: Couldry, ‘Theorising Media as Practice’, p. 129.
-
-[^07chapter6_10]: The use of quotation marks here is not meant ironically, or as a
-    comment on informants self definition, but rather to signal that the
-    text is drawn from the interviews and email corpus.
 
 [^07chapter6_11]: Karina Hof, ‘Something you can actually pick up: Scrapbooking as
     a form and forum of cultural citizenship’, E*uropean Journal of
@@ -7647,7 +7629,7 @@ together.
     a virtual ethnography. I didn’t want to ask the participants to send
     me photos of their home, as this may have seemed intrusive, which is
     why I asked them to describe it instead. However, two of the
-    informants did in fact send me photographs, whereas two others
+    informants did in fact send me photographs, two others
     referred me to photos on their Flickr accounts in which their
     offices were depicted.
 
@@ -7672,7 +7654,7 @@ together.
 > 10 year old girl with her dad’s video camera, right? I think we all
 > know \[laughs\] that she’s a videoblogger.[^08chapter7_1]
 
-Understanding the close entanglement of culture and technology in this
+Understanding the close entanglement of culture and technology in the
 area of digital media production in the early 2000s – most notably in
 the self-definition and development of a community based around video
 objects and technologies – has been crucial in the development of this
@@ -7771,9 +7753,9 @@ expertise, created the conditions of possibility for videoblogging as
 practice. Although the central work of this book has been to present a
 cultural history and ethnographic analysis of the early developments of
 ‘online’ video, and to begin to trace the history of videoblogging
-before YouTube and the rise of social media, the key argument of this
+before YouTube and the rise of social media, a key argument of this
 book is that early internet video cultures are a forgotten but important
-aspect of the rise of video online. As such, the book examined the
+aspect of the rise of video online. As such, the book examines the
 interaction between the technical conditions of possibility and the
 everyday practices undertaken by videobloggers, understanding the
 emerging videoblogging platform through both Langlois et al’s
@@ -7807,7 +7789,7 @@ foundation to the original ethnographic research I have undertaken, and
 has allowed me to frame the critical engagement I have made with the
 material technologies and practices of videoblogging.
 
-Despite being involved in what became a ‘failed’ project,[^08chapter7_3] the
+Despite being involved in what became a ‘failed’ project, the
 videoblogging community developed and in some cases remediated some of
 the key aesthetic and technical practices that were taken up by
 subsequent online video users. For example, the visual effect created by
@@ -7835,7 +7817,7 @@ consultation with the former members of the videoblogging community, in
 order to acknowledge what has been established here; that the videos are
 far more than simply video files. They are crystallisations of the
 embodied practices, technical and aesthetic experimentations and
-personal narratives of a closely-knit community of interest.
+personal narratives of a closely knit community of interest.
 
 It is ironic to note that, despite their investment in community, and
 the fact it was sustained in part by demands of investing in/sharing
@@ -7862,7 +7844,7 @@ away, or moved to new social networks and video services. A sense
 remained, however, that these new services lacked something that the
 original videoblogging community had provided, ‘I have tried Vine a
 little bit,’ Dedman told me in 2013 ‘its cool. I love how simple
-videoblogging has gotten.’ Hence we can see that, with the ease of at
+videoblogging has gotten.’ With the ease of at
 first YouTube, and later, video applications such as Vine, Snapchat and
 Instagram, which allows professional looking video-editing at the tip of
 your fingers, the need for a specialised community space in which to
@@ -7909,7 +7891,7 @@ particularly in terms of a lack of strong proprietary platform
 control.[^08chapter7_4]
 
 This book has sought to fill a gap in previous studies of online video
-that generally didn’t engage with videoblogs and their materiality. This
+that generally haven't engaged with videoblogs and their materiality. This
 book is thus somewhat distanced from previous, screenic studies of
 videoblogging, which also tended to avoid issues of materiality. My
 concern has been with an approach to videoblogging which analyses it
@@ -8054,7 +8036,7 @@ practices, from YouTube to Instagram, Snapchat and Facebook, perhaps as
 a form of reconstituted dead or zombie media.[^08chapter7_14]
 
 Videoblogging is a cultural practice that, although somewhat changed in
-relation to the form that was prevalent in 2004-2007, is arguably now
+relation to the form that was prevalent in 2004-2007, is now
 expanding, as mobile phones and other technical devices incorporate new
 video cameras, software and technologies that enable the sharing and
 storing of moving image materials. Many of the commonplace practices we
@@ -8081,12 +8063,9 @@ private and public, individual and collective. In some senses, then,
 videoblogging is not so much the film of tomorrow, envisaged by Francois
 Truffaut in 1957, but rather the film of today.
 
-[^08chapter7_1]: *Vlog Anarchy*, transcript.
+[^08chapter7_1]: Verdi, *Vlog Anarchy*, transcript.
 
 [^08chapter7_2]: Parikka, *What is Media Archaeology?* p. 160.
-
-[^08chapter7_3]: Huhtamo and Parikka, ‘Media Archaeology: Approaches, Applications,
-    and Implications.’
 
 [^08chapter7_4]: Parikka, What is Media Archaeology?, p. 149.
 
@@ -8111,7 +8090,7 @@ Truffaut in 1957, but rather the film of today.
 
 [^08chapter7_12]: The issue of public culture and the way in which videoblogging
     and practices of video reading and writing can contribute to it lie
-    beyond the scope of this thesis, but remain suggestive of new means
+    beyond the scope of this book, but remain suggestive of new means
     for politics to reconnect with younger citizens who increasingly
     connect to public life through *video* in the first instance through
     platforms like YouTube, Facebook, Vine and Vimeo.
@@ -8349,7 +8328,7 @@ Institute for Networked Cultures, 2008.
 
 Dawson, Jonathan. ‘Dziga Vertov’, *Senses of Cinema,* issue 23 (2003).
 
-De Certeau, Manuel. *The Practice of Everyday Life: Living and cooking,*
+De Certeau, Michel. *The Practice of Everyday Life: Living and cooking,*
 (Trans. Steven Rendall), Berkeley and Los Angeles: University of
 California Press, 1984.
 
@@ -8904,10 +8883,10 @@ Coppola, Francis Ford. *Hearts of Darkness: A Filmmaker’s Apocalypse,*
 Barh, F., Hickenlooper, G. and Coppola, E., (Dir) USA: Paramount, 1991.
 
 Falla, Juan. *Greetings*, 19 August 2005,
-http://viviendoconfallas.blogspot.co.uk/2005/08/vlog-01-our-first-vlog-nuestro-primer.html
+http://viviendoconfallas.blogspot.com/2005/08/vlog-01-our-first-vlog-nuestro-primer.html
 
 \_\_\_\_. *Sancocho*, 15 Septebmer 2006
-http://viviendoconfallas.blogspot.co.uk/2006/09/vlog-47-e33-sancocho.html
+http://viviendoconfallas.blogspot.com/2006/09/vlog-47-e33-sancocho.html
 
 Garfield, Steve. *Year of the Videoblog*, 1 January 2004,
 https://web.archive.org/web/20041231011613/http://homepage.mac.com/stevegarfield/videoblog/year\_of.html
@@ -8949,7 +8928,7 @@ Nealy, Erin. *Mornings*, 2006,
 https://www.youtube.com/watch?v=db4TaJ1xExE&list=PLXembWNMLs6BMZxSETpnhvILAre4uOEKl&index=24
 
 \_\_\_\_\_. *Mom’s Brag Vlog,* accessed 5 December 2017 from
-http://nealey.blogspot.co.uk
+http://nealey.blogspot.com
 
 Quirk, Adam. *video is fun of this computer website!*, 6 September 2006,
 https://www.youtube.com/watch?v=2DvHIxV2oQ0
